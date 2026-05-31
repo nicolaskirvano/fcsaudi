@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:38:02.000Z
+pubDatetime: 2026-05-31T21:27:41.000Z
 title: "Jogadores baratos de Saudi Pro League no EA FC (31/05/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -34,9 +34,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Rúben Neves | 87 | CM | ROSHN Saudi League | 12k coins | -69.9% |
 | Sami Al Jaber | 86 | ST | ROSHN Saudi League | 11k coins | 0% |
 | Mohamed Simakan | 86 | CB | ROSHN Saudi League | 11k coins | -10% |
-| Cristiano Ronaldo | 85 | ST | ROSHN Saudi League | 2k coins | -46.5% |
-| Karim Benzema | 85 | ST | ROSHN Saudi League | 9k coins | -1% |
-| Mohammed Noor | 85 | CAM | ROSHN Saudi League | 11k coins | -4.4% |
+| Mohammed Noor | 85 | CAM | ROSHN Saudi League | 11k coins | +4.6% |
 | Yannick Carrasco | 85 | LM | ROSHN Saudi League | 12k coins | -71.3% |
 | Carlos Júnior | 84 | ST | ROSHN Saudi League | 11k coins | -77.4% |
 | Saeed Al Rubaie | 83 | CB | ROSHN Saudi League | 11k coins | -62.7% |
@@ -77,6 +75,8 @@ Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-b
 **Esses preços são reais?**  
 Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias.
 
+
+> 📊 Esta análise usa os dados do <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a>: preços de múltiplas fontes, previsões e radar de mercado do EA FC Ultimate Team.
 
 ---
 
