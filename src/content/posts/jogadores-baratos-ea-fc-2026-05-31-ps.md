@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:27:40.000Z
+pubDatetime: 2026-05-31T22:38:01.000Z
 title: "Jogadores baratos de Saudi Pro League no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -35,12 +35,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Rúben Neves | 87 | CM | ROSHN Saudi League | 12k coins | -60.2% |
 | Karim Benzema | 87 | ST | ROSHN Saudi League | 12k coins | -14.3% |
 | Julian Quiñones | 87 | ST | ROSHN Saudi League | 12k coins | -18.6% |
-| Sami Al Jaber | 86 | ST | ROSHN Saudi League | 11k coins | -8.3% |
 | Mohamed Simakan | 86 | CB | ROSHN Saudi League | 11k coins | -19.6% |
 | Iñigo Martínez | 86 | CB | ROSHN Saudi League | 12k coins | -61.8% |
-| Cristiano Ronaldo | 85 | ST | ROSHN Saudi League | 2k coins | -68.8% |
+| Sami Al Jaber | 86 | ST | ROSHN Saudi League | 12k coins | +4.2% |
 | Yannick Carrasco | 85 | LM | ROSHN Saudi League | 11k coins | -62.5% |
-| Mohammed Noor | 85 | CAM | ROSHN Saudi League | 12k coins | +8.7% |
+| Mohammed Noor | 85 | CAM | ROSHN Saudi League | 12k coins | +4.4% |
 | Joshua King | 85 | ST | ROSHN Saudi League | 15k coins | +5.4% |
 | Carlos Júnior | 84 | ST | ROSHN Saudi League | 11k coins | -64.5% |
 | Saeed Al Rubaie | 83 | CB | ROSHN Saudi League | 11k coins | -66.9% |
