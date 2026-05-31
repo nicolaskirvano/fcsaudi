@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T18:58:23.000Z
+pubDatetime: 2026-05-31T19:38:01.000Z
 title: "Saudi Pro League no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,28 +13,27 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 31/05/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/05/2026)?"
-    a: "Saeed Al Owairan (85, ROSHN Saudi League), com +23.4% em 24h, a 95k coins no Console (PS)."
+    a: "Cristiano Ronaldo (92, ROSHN Saudi League), com +21.8% em 24h, a 8.65M coins no Console (PS)."
   - q: "E a maior queda do dia?"
     a: "Riyad Mahrez (87), -43.9% em 24h, a 69k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
     a: "Pelo modelo FutQuant, Enzo Millot (89) — 95% de probabilidade de alta, a 16k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 16 cartas em alta contra 20 em queda (média 1.32%)."
+    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 15 cartas em alta contra 20 em queda (média 0.75%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **16 subiram** e **20 caíram**, com variação média de **1.32%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **15 subiram** e **20 caíram**, com variação média de **0.75%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Saeed Al Owairan (85) **+23.4%** · 🔴 **Maior baixa:** Riyad Mahrez (87) **-43.9%**
+> 🟢 **Maior alta:** Cristiano Ronaldo (92) **+21.8%** · 🔴 **Maior baixa:** Riyad Mahrez (87) **-43.9%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Saeed Al Owairan | 85 | ROSHN Saudi League | 95k coins | +23.4% | +47.3% |
 | Cristiano Ronaldo | 92 | ROSHN Saudi League | 8.65M coins | +21.8% | -10.8% |
 | Sadio Mané | 88 | ROSHN Saudi League | 250k coins | +21.4% | +32.3% |
 | João Félix | 92 | ROSHN Saudi League | 690k coins | +9.5% | -1.2% |
@@ -46,11 +45,11 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ### Análise das altas
 
-- **Saeed Al Owairan (85)** subiu **+23.4%** em 24h, a **95k coins** (faixa do dia: 77k–96k). Está em linha com a média de 7 dias (-5%). 🔮 O modelo projeta **continuidade da alta** (95% de chance de subir mais).
-
 - **Cristiano Ronaldo (92)** subiu **+21.8%** em 24h, a **8.65M coins** (faixa do dia: 7.10M–8.65M). Está +18% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
 - **Sadio Mané (88)** subiu **+21.4%** em 24h, a **250k coins** (faixa do dia: 199k–250k). Está +20% acima da média de 7 dias (aquecida). 🔮 O modelo projeta **continuidade da alta** (95% de chance de subir mais).
+
+- **João Félix (92)** subiu **+9.5%** em 24h, a **690k coins** (faixa do dia: 630k–790k). Está em linha com a média de 7 dias (-4%). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
 
 
 ## 🔴 Maiores baixas (24h)
@@ -82,7 +81,6 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 | --- | --- | --- | --- | --- |
 | Enzo Millot | 89 | 16k coins | 18k coins | 95% |
 | Rúben Neves | 87 | 21k coins | 27k coins | 95% |
-| Saeed Al Owairan | 85 | 95k coins | 113k coins | 95% |
 | Ibañez | 86 | 118k coins | 136k coins | 95% |
 | Cristiano Ronaldo | 86 | 364k coins | 419k coins | 95% |
 | Sadio Mané | 88 | 250k coins | 311k coins | 95% |
@@ -112,7 +110,7 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/05/2026)?**  
-Saeed Al Owairan (85, ROSHN Saudi League), com +23.4% em 24h, a 95k coins no Console (PS).
+Cristiano Ronaldo (92, ROSHN Saudi League), com +21.8% em 24h, a 8.65M coins no Console (PS).
 
 **E a maior queda do dia?**  
 Riyad Mahrez (87), -43.9% em 24h, a 69k coins.
@@ -121,7 +119,7 @@ Riyad Mahrez (87), -43.9% em 24h, a 69k coins.
 Pelo modelo FutQuant, Enzo Millot (89) — 95% de probabilidade de alta, a 16k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 16 cartas em alta contra 20 em queda (média 1.32%).
+Hoje o mercado está em mercado lateral — sem direção clara, com 15 cartas em alta contra 20 em queda (média 0.75%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

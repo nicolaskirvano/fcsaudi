@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T18:58:23.000Z
+pubDatetime: 2026-05-31T19:38:01.000Z
 title: "Melhores investimentos em Saudi Pro League no EA FC (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -32,7 +32,6 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
 | João Cancelo | 87 | ROSHN Saudi League | 57k coins | +2.7% | +62.9% | 43% |
-| Saeed Al Owairan | 85 | ROSHN Saudi League | 95k coins | +23.4% | +47.3% | 95% |
 | Sadio Mané | 88 | ROSHN Saudi League | 250k coins | +21.4% | +32.3% | 95% |
 | Karim Benzema | 88 | ROSHN Saudi League | 19k coins | +23% | +21% | 5% |
 | Abdoulaye Doucouré | 87 | ROSHN Saudi League | 45k coins | +5.9% | +5.3% | 28% |
@@ -41,8 +40,6 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 ## 📈 Análise dos destaques
 
 - **João Cancelo (87)** — 57k coins, **+62.9% em 7 dias** (+2.7% em 24h). Preço em linha com a média de 7 dias (-3%). Momentum positivo; acompanhe para escolher o ponto de entrada.
-
-- **Saeed Al Owairan (85)** — 95k coins, **+47.3% em 7 dias** (+23.4% em 24h). Preço em linha com a média de 7 dias (-5%). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
 
 - **Sadio Mané (88)** — 250k coins, **+32.3% em 7 dias** (+21.4% em 24h). Preço +20% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
 
