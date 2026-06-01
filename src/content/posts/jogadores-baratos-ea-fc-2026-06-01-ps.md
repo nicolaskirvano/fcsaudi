@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:38:02.000Z
+pubDatetime: 2026-06-01T13:38:02.000Z
 title: "Jogadores baratos de Saudi Pro League no EA FC (01/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -38,7 +38,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Mohamed Simakan | 86 | CB | ROSHN Saudi League | 11k coins | -21.4% |
 | Iñigo Martínez | 86 | CB | ROSHN Saudi League | 11k coins | -69.2% |
 | Sami Al Jaber | 86 | ST | ROSHN Saudi League | 12k coins | +2% |
-| Cristiano Ronaldo | 85 | ST | ROSHN Saudi League | 2k coins | -69.1% |
+| Cristiano Ronaldo | 85 | ST | ROSHN Saudi League | 2k coins | -72.1% |
 | Karim Benzema | 85 | ST | ROSHN Saudi League | 4k coins | 0% |
 | Yannick Carrasco | 85 | LM | ROSHN Saudi League | 11k coins | -64.2% |
 | Mohammed Noor | 85 | CAM | ROSHN Saudi League | 12k coins | +2.2% |
