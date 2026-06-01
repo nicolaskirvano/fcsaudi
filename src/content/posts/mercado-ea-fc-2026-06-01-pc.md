@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T13:38:02.000Z
+pubDatetime: 2026-06-01T16:38:03.000Z
 title: "Saudi Pro League no EA FC hoje (01/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
