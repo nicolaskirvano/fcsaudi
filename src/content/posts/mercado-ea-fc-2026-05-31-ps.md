@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T22:38:01.000Z
+pubDatetime: 2026-06-01T01:38:01.000Z
 title: "Saudi Pro League no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -19,14 +19,14 @@ faq:
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
     a: "Pelo modelo FutQuant, Rúben Neves (87) — 95% de probabilidade de alta, a 22k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 14 cartas em alta contra 24 em queda (média 0.0%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 12 cartas em alta contra 24 em queda (média 0.19%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **14 subiram** e **24 caíram**, com variação média de **0.0%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **12 subiram** e **24 caíram**, com variação média de **0.19%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Cristiano Ronaldo (86) **+50.4%** · 🔴 **Maior baixa:** Riyad Mahrez (87) **-27.8%**
 
@@ -36,8 +36,8 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 | --- | --- | --- | --- | --- | --- |
 | Cristiano Ronaldo | 86 | ROSHN Saudi League | 594k coins | +50.4% | -54.3% |
 | Salem Al Dawsari | 90 | ROSHN Saudi League | 26k coins | +36.8% | +44.4% |
+| Cristiano Ronaldo | 88 | ROSHN Saudi League | 2.68M coins | +34% | +24.6% |
 | Theo Hernández | 88 | ROSHN Saudi League | 483k coins | +27.4% | +1% |
-| Cristiano Ronaldo | 88 | ROSHN Saudi League | 2.40M coins | +20.4% | +11.6% |
 | Sadio Mané | 88 | ROSHN Saudi League | 247k coins | +19.9% | +30.7% |
 | Cristiano Ronaldo | 90 | ROSHN Saudi League | 7.10M coins | +16.4% | +22.4% |
 | Kingsley Coman | 87 | ROSHN Saudi League | 66k coins | +14.7% | -10.1% |
@@ -51,7 +51,7 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 - **Salem Al Dawsari (90)** subiu **+36.8%** em 24h, a **26k coins** (faixa do dia: 11k–29k). Está +38% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
-- **Theo Hernández (88)** subiu **+27.4%** em 24h, a **483k coins** (faixa do dia: 360k–545k). Está +19% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Cristiano Ronaldo (88)** subiu **+34%** em 24h, a **2.68M coins** (faixa do dia: 2M–3.40M). Está +15% acima da média de 7 dias (aquecida). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
 
 
 ## 🔴 Maiores baixas (24h)
@@ -122,7 +122,7 @@ Riyad Mahrez (87), -27.8% em 24h, a 70k coins.
 Pelo modelo FutQuant, Rúben Neves (87) — 95% de probabilidade de alta, a 22k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 14 cartas em alta contra 24 em queda (média 0.0%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 12 cartas em alta contra 24 em queda (média 0.19%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T22:38:01.000Z
+pubDatetime: 2026-06-01T01:38:02.000Z
 title: "Jogadores baratos de Saudi Pro League no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,16 +30,16 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Enzo Millot | 89 | CAM | ROSHN Saudi League | 14k coins | -6.7% |
-| Mohammed Noor | 88 | CAM | ROSHN Saudi League | 14k coins | -9.8% |
+| Mohammed Noor | 88 | CAM | ROSHN Saudi League | 13k coins | -14.8% |
 | Iñigo Martínez | 87 | LB | ROSHN Saudi League | 12k coins | -16.4% |
 | Rúben Neves | 87 | CM | ROSHN Saudi League | 12k coins | -60.2% |
 | Karim Benzema | 87 | ST | ROSHN Saudi League | 12k coins | -14.3% |
 | Julian Quiñones | 87 | ST | ROSHN Saudi League | 12k coins | -18.6% |
 | Mohamed Simakan | 86 | CB | ROSHN Saudi League | 11k coins | -19.6% |
 | Iñigo Martínez | 86 | CB | ROSHN Saudi League | 12k coins | -61.8% |
-| Sami Al Jaber | 86 | ST | ROSHN Saudi League | 12k coins | +4.2% |
+| Sami Al Jaber | 86 | ST | ROSHN Saudi League | 13k coins | +10.9% |
 | Yannick Carrasco | 85 | LM | ROSHN Saudi League | 11k coins | -62.5% |
-| Mohammed Noor | 85 | CAM | ROSHN Saudi League | 12k coins | +4.4% |
+| Mohammed Noor | 85 | CAM | ROSHN Saudi League | 12k coins | +9.1% |
 | Joshua King | 85 | ST | ROSHN Saudi League | 15k coins | +5.4% |
 | Carlos Júnior | 84 | ST | ROSHN Saudi League | 11k coins | -64.5% |
 | Saeed Al Rubaie | 83 | CB | ROSHN Saudi League | 11k coins | -66.9% |
@@ -49,7 +49,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Enzo Millot (89, CAM)** da ROSHN Saudi League, a apenas **14k coins**
 
-- **Mohammed Noor (88, CAM)** da ROSHN Saudi League, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Mohammed Noor (88, CAM)** da ROSHN Saudi League, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Iñigo Martínez (87, LB)** da ROSHN Saudi League, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
