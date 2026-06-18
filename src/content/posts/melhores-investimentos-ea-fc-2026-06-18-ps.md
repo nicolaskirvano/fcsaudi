@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:34:34.000Z
+pubDatetime: 2026-06-18T19:38:09.000Z
 title: "Melhores investimentos em Saudi Pro League no EA FC (18/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
