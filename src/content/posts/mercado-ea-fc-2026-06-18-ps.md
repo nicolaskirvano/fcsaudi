@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T23:39:15.000Z
+pubDatetime: 2026-06-19T01:38:59.000Z
 title: "Saudi Pro League no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,55 +13,59 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Rúben Neves (87, ROSHN Saudi League), com +52.5% em 24h, a 28k coins no Console (PS)."
+    a: "Mohammed Noor (85, ROSHN Saudi League), com +25% em 24h, a 24k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "João Félix (84), -44.3% em 24h, a 170k coins."
+    a: "João Félix (84), -42.9% em 24h, a 215k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Rúben Neves (87) — 95% de probabilidade de alta, a 28k coins."
+    a: "Pelo modelo FutQuant, Enzo Millot (89) — 95% de probabilidade de alta, a 16k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 16 cartas em alta contra 10 em queda (média 0.49%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 17 cartas em alta contra 16 em queda (média -2.83%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado da Saudi Pro League em Console para o dia 18 de junho de 2026 apresenta um cenário dominado por um sentimento comprador, onde a liquidez parece estar fluindo com cautela, mas com direcionamento claro para ativos de alta probabilidade de valorização. Com uma média de variação positiva de apenas 0.49% nas últimas 24 horas, o segmento mostra que a maioria das 16 altas registradas foi impulsionada por fatores específicos de demanda, enquanto as 10 quedas refletem ajustes de preço em cartas com baixa retenção de valor. O trader experiente observa que, em um ambiente de 'clima comprador', a oportunidade está em identificar quais ativos estão sendo acumulativamente comprados antes da alta confirmada, especialmente aqueles com probabilidades de alta superiores a 90% nos modelos preditivos. A volatilidade controlada sugere que não há pânico de venda generalizada, mas sim uma rotação inteligente de capital entre cartas de uso rotativo e aquelas com escassez iminente ou eventos de conteúdo relacionados. Portanto, a estratégia do dia deve focar em ignorar o ruído das pequenas flutuações e concentrar-se nos movimentos estruturais, utilizando os dados de probabilidade como bússola para decisões de entrada e saída no mercado de troca.
+O mercado da Saudi Pro League em consoles PlayStation exibe um viés claramente vendedor nesta segunda-feira, 18 de junho de 2026, com um balanço negativo que reflete a cautela dos traders diante da incerteza de curto prazo. Os dados consolidados das últimas 24 horas apontam para uma média de queda de -2.83%, um sinal de que a liquidez está sendo drenada de ativos que não possuem catalisadores imediatos fortes, forçando os jogadores a reassessarem suas carteiras. Embora haja um número equilibrado de altas e quedas em termos absolutos, com 17 ativos subindo contra 16 em queda, o peso das quedas é significativamente maior, criando um ambiente hostil para operações de alavancagem agressiva. Este contexto de 'clima vendedor' exige uma leitura fina das probabilidades de alta fornecidas pelo nosso modelo, pois apenas os ativos com probabilidade superior a 90% parecem resistentes à pressão vendedora generalizada. O trader experiente deve observar que a volatilidade está concentrada em nomes específicos, enquanto a massa crítica do mercado tende a seguir a média negativa, sugerindo que a paciência e a seletividade são as únicas ferramentas viáveis para preservar capital neste momento.
 
-> 🟢 **Maior alta:** Rúben Neves (87) **+52.5%** · 🔴 **Maior baixa:** João Félix (84) **-44.3%**
+> 🟢 **Maior alta:** Mohammed Noor (85) **+25%** · 🔴 **Maior baixa:** João Félix (84) **-42.9%**
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rúben Neves | 87 | ROSHN Saudi League | 28k coins | +52.5% | +32.6% |
-| Riyad Mahrez | 87 | ROSHN Saudi League | 120k coins | +16.5% | +32.6% |
-| Cristiano Ronaldo | 90 | ROSHN Saudi League | 5.30M coins | +10.6% | +20% |
-| Mohammed Noor | 85 | ROSHN Saudi League | 26k coins | +10% | +39.7% |
-| Karim Benzema | 88 | ROSHN Saudi League | 40k coins | +6.7% | 0% |
-| Malcom | 87 | ROSHN Saudi League | 42k coins | +6.2% | 0% |
-| Saeed Al Owairan | 91 | ROSHN Saudi League | 187k coins | +5.3% | +1% |
-| Cristiano Ronaldo | 89 | ROSHN Saudi League | 1.09M coins | +4.5% | +23.5% |
-| N'Golo Kanté | 89 | ROSHN Saudi League | 225k coins | +4.4% | -5.6% |
+| Mohammed Noor | 85 | ROSHN Saudi League | 24k coins | +25% | +50.8% |
+| Rúben Neves | 87 | ROSHN Saudi League | 25k coins | +15.9% | +13.3% |
+| Musab Al Juwair | 87 | ROSHN Saudi League | 40k coins | +15% | +15% |
+| Sami Al Jaber | 86 | ROSHN Saudi League | 41k coins | +13.8% | +45.8% |
+| Cristiano Ronaldo | 90 | ROSHN Saudi League | 5.16M coins | +9.7% | +19% |
+| Mohamed Simakan | 86 | ROSHN Saudi League | 35k coins | +8.5% | +0.7% |
+| Theo Hernández | 88 | ROSHN Saudi League | 282k coins | +8% | -4.2% |
+| Malcom | 87 | ROSHN Saudi League | 42k coins | +5% | -1.2% |
+| Cristiano Ronaldo | 89 | ROSHN Saudi League | 1M coins | +4.7% | +35.1% |
+| Cristiano Ronaldo | 92 | ROSHN Saudi League | 1.52M coins | +4.7% | +24.9% |
 
 
-A liderança das altas é incontestavelmente de Rúben Neves, cujas 87-rated cards da ROSHN Saudi League dispararam 52.5% em 24 horas, atingindo a marca de 28 mil moedas com uma probabilidade de alta de 95%, o que indica uma acumulação agressiva por parte dos traders que antecipam escassez ou utilidade imediata em times de baixo custo. Logo atrás, Cristiano Ronaldo, em sua versão 90-rated, registrou um sólido aumento de 10.6%, posicionando-se em 5.30 milhões de moedas, também com 95% de probabilidade de alta, confirmando que o ativo premium continua sendo o refúgio de segurança para quem busca preservar capital em grandes quantias. Riyad Mahrez, com 87 de rating, subiu 16.5% para 120 mil moedas, embora sua probabilidade de alta futura seja de apenas 5%, sugerindo que este movimento pode ser uma correção temporária de preço após um pico de demanda esgotado. Mohammed Noor, cartinha 85, apresentou alta de 10% para 26 mil moedas com 50% de chance de continuar subindo, representando um ativo de médio risco que atrai traders de times de budget que buscam valorização rápida sem expor grandes somas. Karim Benzema, 88-rated, completou o quadro com alta de 6.7% para 40 mil moedas, mas com apenas 5% de probabilidade de alta, indicando que seu preço pode estar saturado e pronto para uma correção, enquanto Malcom (87) subiu 6.2% para 42 mil moedas com 8% de chance de alta, e Saeed Al Owairan (91) teve alta modesta de 5.3% para 187 mil moedas com 38% de probabilidade, mostrando que o topo da pirâmide de ratings está se movendo com menos vigor que as cartas de entrada.
+Entre os destaques positivos, Mohammed Noor lidera a tabela com uma alta expressiva de 25% em 24 horas, atingindo a marca de 24 mil moedas, embora a probabilidade de continuação dessa tendência seja moderada em apenas 50%, indicando possível exaustão de compradores. Rúben Neves apresenta um movimento mais estruturado, subindo 15.9% para 25 mil moedas com uma probabilidade de alta de 95%, o que sugere uma base sólida de acumulação institucional ou de squads de eventos futuros que justificam a confiança do mercado. Musab Al Juwair registra um salto de 15% para 40 mil moedas, mas sua probabilidade de alta de apenas 5% alerta para um cenário de 'buy and sell' rápido, onde os lucros podem ser revertidos se não houver novas notícias positivas em breve. Sami Al Jaber sobe 13.8% para 41 mil moedas, mantendo uma probabilidade de 50%, o que indica um equilíbrio delicado entre oferta e demanda que requer monitoramento constante para evitar compras no topo. Cristiano Ronaldo, o gigante do mercado, avança 9.7% para impressionantes 5.16 milhões de moedas, com uma probabilidade de alta de 95%, consolidando seu status como ativo de refúgio e valorização constante, ideal para holdings de longo prazo que buscam estabilidade em meio ao caos do mercado.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| João Félix | 84 | ROSHN Saudi League | 170k coins | -44.3% | +105.3% |
-| Abdoulaye Doucouré | 87 | ROSHN Saudi League | 44k coins | -26.2% | +86.3% |
-| Ibañez | 86 | ROSHN Saudi League | 94k coins | -24.2% | -15.1% |
-| Neymar Jr | 87 | ROSHN Saudi League | 100k coins | -19.7% | -47% |
-| Carlos Júnior | 84 | ROSHN Saudi League | 44k coins | -13.9% | -8.4% |
-| João Félix | 93 | ROSHN Saudi League | 407k coins | -8.9% | -8.9% |
-| Chris Smalling | 87 | ROSHN Saudi League | 38k coins | -6.1% | +93.7% |
+| João Félix | 84 | ROSHN Saudi League | 215k coins | -42.9% | +101% |
+| Ibañez | 86 | ROSHN Saudi League | 90k coins | -29.2% | -25.8% |
+| Abdoulaye Doucouré | 87 | ROSHN Saudi League | 44k coins | -26.2% | +82.5% |
+| Neymar Jr | 83 | ROSHN Saudi League | 102k coins | -22.5% | -50% |
+| João Cancelo | 87 | ROSHN Saudi League | 88k coins | -20.5% | -0.6% |
+| Carlos Júnior | 84 | ROSHN Saudi League | 44k coins | -14.7% | -8.9% |
+| Chris Smalling | 87 | ROSHN Saudi League | 42k coins | -14.1% | +75% |
+| Saeed Al Owairan | 85 | ROSHN Saudi League | 80k coins | -13% | -12.6% |
+| Sadio Mané | 88 | ROSHN Saudi League | 103k coins | -12.8% | -31.7% |
+| Kingsley Coman | 87 | ROSHN Saudi League | 40k coins | -7.5% | +10.3% |
 
 
-As quedas mais expressivas foram lideradas por João Félix, na versão 84, que despenca 44.3% em 24 horas para 170 mil moedas, com apenas 8% de probabilidade de alta, sinalizando uma perda massiva de confiança ou utilidade no mercado, possivelmente devido à chegada de alternativas mais baratas ou mais eficientes. Abdoulaye Doucouré, 87-rated, caiu 26.2% para 44 mil moedas, mantendo uma probabilidade de alta de 28%, o que sugere que o preço ainda está em busca de um fundo sólido e pode não ser o momento ideal para recomprar imediatamente. Ibañez, com 86 de rating, registrou queda de 24.2% para 94 mil moedas, mas paradoxalmente possui 95% de probabilidade de alta, criando uma oportunidade clássica de 'compra na queda' para traders arriscados que acreditam na reversion à média. Neymar Jr, 87-rated, perdeu 19.7% atingindo 100 mil moedas com probabilidade de alta de 0%, indicando um fundo técnico ou fundamental que precisa ser resolvido antes de qualquer investimento, tornando-o um ativo de risco extremo no momento. Carlos Júnior, 84-rated, caiu 13.9% para 44 mil moedas com 28% de chance de alta, enquanto a versão 93 de João Félix também recuou 8.9% para 407 mil moedas com 27% de probabilidade de alta, e Chris Smalling, 87-rated, teve queda de 6.1% para 38 mil moedas com apenas 5% de chance de alta, consolidando um grupo de defesas e ataques de meio campo que estão sendo desinvestidos agressivamente pelo mercado.
+Na outra ponta do espectro, João Félix sofre a maior desvalorização com uma queda brutal de 42.9% em 24 horas, encerrando em 215 mil moedas, uma situação crítica agravada pela baixa probabilidade de alta de apenas 8%, sinalizando pânico vendedor e falta de suporte técnico imediato. Ibañez recua 29.2% para 90 mil moedas, um movimento paradoxal dado que sua probabilidade de alta é de 95%, o que pode indicar uma oportunidade de compra agressiva para traders de reversão que acreditam no fundo do modelo preditivo. Abdoulaye Doucouré perde 26.2% para 44 mil moedas, com uma probabilidade de alta de 28%, refletindo uma perda de confiança dos especuladores que provavelmente estão liquidando posições em meio-ataque devido à falta de destaque em metadados ou eventos. Neymar Jr desponta com uma queda de 22.5% para 102 mil moedas e uma probabilidade de alta de 0%, um sinal claro de que o ativo está em zona de perigo e deve ser evitado a todo custo até que haja uma mudança drástica na narrativa ou no preço base. João Cancelo segue a tendência de baixa com -20.5% para 88 mil moedas, mantendo uma probabilidade de 43%, o que sugere uma lateralização do preço em breve, mas com riscos elevados de continuação da queda se o suporte não for defendido nos próximos ciclos de mercado.
 
 
 ## 🔮 Projeções do modelo para 24h
@@ -70,14 +74,17 @@ Os nomes com **melhor leitura de valorização** segundo o modelo (confiança al
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Rúben Neves | 87 | 28k coins | 36k coins | 95% |
-| Ibañez | 86 | 94k coins | 109k coins | 95% |
+| Enzo Millot | 89 | 16k coins | 19k coins | 95% |
+| Rúben Neves | 87 | 25k coins | 32k coins | 95% |
+| Saeed Al Owairan | 85 | 80k coins | 95k coins | 95% |
+| Ibañez | 86 | 90k coins | 103k coins | 95% |
+| Sadio Mané | 88 | 103k coins | 128k coins | 95% |
 | Cristiano Ronaldo | 86 | 270k coins | 311k coins | 95% |
-| João Félix | 86 | 200k coins | 220k coins | 84% |
+| João Félix | 86 | 210k coins | 231k coins | 84% |
 | Iñigo Martínez | 86 | 32k coins | 36k coins | 84% |
 
 
-O modelo preditivo aponta com extrema confiança que Rúben Neves, 87-rated, a 28 mil moedas, tem 95% de probabilidade de alta, reforçando a tese de compra iniciada nas últimas horas. Ibañez, 86-rated, a 94 mil moedas, também possui 95% de probabilidade de alta, sugerindo que a queda recente foi uma oportunidade de entrada para quem seguiu o sinal de reversão. Cristiano Ronaldo, em sua versão 86, a 270 mil moedas, mantém 95% de chance de valorização, indicando que mesmo as versões de custo intermediário do astro português estão sendo acumuladas estrategicamente. João Félix, 86-rated, a 200 mil moedas, apresenta 84% de probabilidade de alta, o que é um dado crucial considerando a queda drástica da sua versão 84, sugerindo que o mercado está rotacionando para a versão de maior rating como ativo de longo prazo. Por fim, Iñigo Martínez, 86-rated, a 32 mil moedas, tem 84% de probabilidade de alta, oferecendo uma entrada de baixo custo com alto potencial de retorno, ideal para diversificar o portfólio de defesa com ativos de valorização segura.
+O modelo preditivo identifica uma oportunidade clara em Enzo Millot, com 95% de probabilidade de alta a partir de 16 mil moedas, sugerindo um fundo de compra ideal para entrada de capital com baixo risco relativo. Rúben Neves é novamente destacado com 95% de chance de alta a 25 mil moedas, confirmando a tendência de alta observada nas últimas 24 horas e reforçando a tese de compra em qualquer recuo momentâneo. Saeed Al Owairan, apesar da queda recente, possui 95% de probabilidade de alta a 80 mil moedas, indicando que a desvalorização pode ser uma correção saudável antes de uma nova fase de valorização. Ibañez aparece com 95% de probabilidade de alta a 90 mil moedas, alinhando-se com a leitura de que sua queda recente foi exagerada e que o preço tende a reverter rapidamente para a média histórica. Sadio Mané é projetado para alta com 95% de probabilidade a 103 mil moedas, um ativo defensivo que deve ser monitorado de perto para operações de swing trading de curto prazo. Cristiano Ronaldo, em sua versão de 86 rating, tem 95% de probabilidade de alta a 270 mil moedas, mostrando que mesmo variações de preço são oportunidades de compra em ativos de alta liquidez. João Félix, com 84% de probabilidade de alta a 210 mil moedas, oferece um cenário de alto risco e alta recompensa, exigindo stop-loss apertado devido à volatilidade extrema recente. Iñigo Martínez, com 84% de probabilidade de alta a 32 mil moedas, representa uma entrada de baixo custo para diversificação de portfólio com expectativa de retorno moderado.
 
 
 ## ⚠️ Cartas em risco nas próximas 24h
@@ -86,18 +93,18 @@ Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite c
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Saeed Al Rubaie | 83 | 35k coins | -17.1% |
-| Riyad Mahrez | 87 | 120k coins | -21.3% |
+| Musab Al Juwair | 87 | 40k coins | -23.8% |
+| Riyad Mahrez | 87 | 107k coins | -21.3% |
 | Karim Benzema | 88 | 40k coins | -34.2% |
 | Rúben Neves | 87 | 30k coins | -21.4% |
+| Saeed Al Rubaie | 83 | 35k coins | -17.1% |
 | Malcom | 87 | 42k coins | -12.6% |
-| João Félix | 84 | 170k coins | -12.6% |
-| N'Golo Kanté | 89 | 225k coins | -12.6% |
-| Joshua King | 85 | 16k coins | -10.2% |
+| João Félix | 84 | 215k coins | -12.6% |
+| N'Golo Kanté | 89 | 226k coins | -12.6% |
 
 
 ## 🎯 Conclusão do dia
-A estratégia para o dia 18 de junho em Console deve focar na compra agressiva de Rúben Neves e Ibañez, aproveitando as altas probabilidades de 95% de valorização previstas pelo modelo, enquanto se evita a compra de Riyad Mahrez e Karim Benzema, cujas baixas probabilidades de alta indicam saturação de preço. Recomenda-se segurar Cristiano Ronaldo 90-rated e 86-rated, pois ambos mantêm alta probabilidade de valorização e funcionam como reserva de valor estável em um mercado volátil, mas deve-se evitar comprar Neymar Jr e João Félix 84 no momento, dado o zero e oito por cento de chance de alta, respectivamente. Traders de baixo orçamento devem priorizar Iñigo Martínez e Mohammed Noor, que oferecem equilíbrio entre risco e retorno, enquanto os de alto capital devem monitorar de perto a versão 93 de João Félix para uma possível recompra futura quando a probabilidade de alta aumentar. O timing ideal para entrada é imediato para os ativos com 95% de probabilidade, pois o sentimento comprador tende a acelerar as altas nos primeiros minutos das negociações, enquanto a venda deve ser feita com alvos de lucro definidos, evitando ganância em ativos com baixa probabilidade de continuidade, como Mahrez e Smalling, que podem corrigir rapidamente.
+A estratégia recomendada para hoje é de extrema seletividade, focando na compra de ativos com probabilidade de alta superior a 90% que sofreram quedas corretivas, como Ibañez e Saeed Al Owairan, aproveitando o medo do mercado para entrar em posições de reversão. Deve-se evitar agressivamente ativos como Neymar Jr e João Félix no momento atual, pois a falta de suporte técnico e a probabilidade de alta próxima de zero indicam que a queda pode se aprofundar antes de qualquer estabilização. Traders conservadores devem segurar suas posições em Cristiano Ronaldo e Rúben Neves, utilizando a tendência de alta confirmada para realizar lucros parciais em picos momentâneos, garantindo o capital inicial e deixando os lucros correrem. Para quem busca liquidez rápida, Mohammed Noor e Sami Al Jaber podem ser alvo de operações de 'scalping' intradiário, mas com a consciência clara de que a probabilidade de continuação é apenas de 50%, exigindo saída rápida em caso de resistência. O mercado está em um ponto de inflexão onde a paciência é mais valiosa que a velocidade, e a disciplina para seguir as probabilidades do modelo em vez das emoções do preço é o diferencial entre o lucro e a perda neste cenário de volatilidade controlada.
 
 
 ## 🧪 De onde vêm estes números
@@ -107,16 +114,16 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
-Rúben Neves (87, ROSHN Saudi League), com +52.5% em 24h, a 28k coins no Console (PS).
+Mohammed Noor (85, ROSHN Saudi League), com +25% em 24h, a 24k coins no Console (PS).
 
 **E a maior queda do dia?**  
-João Félix (84), -44.3% em 24h, a 170k coins.
+João Félix (84), -42.9% em 24h, a 215k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Rúben Neves (87) — 95% de probabilidade de alta, a 28k coins.
+Pelo modelo FutQuant, Enzo Millot (89) — 95% de probabilidade de alta, a 16k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**  
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 16 cartas em alta contra 10 em queda (média 0.49%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 17 cartas em alta contra 16 em queda (média -2.83%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
