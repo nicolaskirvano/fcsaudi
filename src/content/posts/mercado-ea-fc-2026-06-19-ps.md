@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T22:42:03.000Z
+pubDatetime: 2026-06-20T01:38:51.000Z
 title: "Saudi Pro League no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,61 +13,50 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Darwin Núñez (90, ROSHN Saudi League), com +10.6% em 24h, a 76k coins no Console (PS)."
+    a: "Rúben Neves (87, ROSHN Saudi League), com +5.9% em 24h, a 27k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Saeed Al Owairan (85), -47.1% em 24h, a 40k coins."
+    a: "João Cancelo (87), -41.2% em 24h, a 52k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Enzo Millot (89) — 95% de probabilidade de alta, a 18k coins."
+    a: "Pelo modelo FutQuant, Ibañez (86) — 95% de probabilidade de alta, a 41k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 3 cartas em alta contra 22 em queda (média -12.9%)."
+    a: "Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 2 cartas em alta contra 17 em queda (média -12.15%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado do **EA FC** abre **19/06/2026** no Console (PS) com mercado **pressionado** — as quedas dominam o dia: **3 cartas subiram** e **22 caíram** (80+ acima de 5k coins), variação média de **-12.9%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+O cenário do mercado da Saudi Pro League para o dia 19 de junho de 2026 no PlayStation é definido por uma pressão vendedora extrema que sufoca qualquer tentativa de especulação rápida, com os dados indicando um desequilíbrio brutal onde apenas duas carteiras registraram altas significativas enquanto dezessete sofreram quedas, resultando em uma média negativa de 12,15% em 24 horas. Esse tom de pânico generalizado sugere que os traders estão liquidando posições de alto risco ou ajustando portfólios em antecipação a eventos iminentes, criando um ambiente onde a liquidez é alta mas a confiança dos compradores está quase inexistente. Para o analista atento, essa dinâmica não é apenas um sinal de fraqueza estrutural, mas uma oportunidade de caça a ativos superdescontados que foram vendidos em excesso por investidores desesperados que não compreendem o suporte fundamental dos jogadores. A chave para navegar neste dia turbulento é ignorar o ruído das quedas massivas e focar exclusivamente nos poucos ativos que demonstram resiliência ou nos que atingiram pontos de valor intrínseco onde a probabilidade de reversão se torna estatisticamente inevitável. Quem tentar comprar no fundo sem análise fria será devorado pela volatilidade, mas quem souber identificar os ativos com probabilidade de alta superior a 80% poderá acumular capital de forma consistente enquanto o resto do mercado sangra.
 
-> 🟢 **Maior alta:** Darwin Núñez (90) **+10.6%** · 🔴 **Maior baixa:** Saeed Al Owairan (85) **-47.1%**
+> 🟢 **Maior alta:** Rúben Neves (87) **+5.9%** · 🔴 **Maior baixa:** João Cancelo (87) **-41.2%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Darwin Núñez | 90 | ROSHN Saudi League | 76k coins | +10.6% | +5.3% |
-| Sadio Mané | 88 | ROSHN Saudi League | 190k coins | +8.9% | +23.9% |
+| Rúben Neves | 87 | ROSHN Saudi League | 27k coins | +5.9% | +22.7% |
 
 
-### Análise das altas
-
-- **Darwin Núñez (90)** subiu **+10.6%** em 24h, a **76k coins** (faixa do dia: 78k–100k). Está -25% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
-
-- **Sadio Mané (88)** subiu **+8.9%** em 24h, a **190k coins** (faixa do dia: 110k–149k). Está +56% acima da média de 7 dias (aquecida). 🔮 O modelo projeta **continuidade da alta** (95% de chance de subir mais).
+Em meio ao caos das quedas, Rúben Neves se destaca como o único farol de estabilidade e crescimento, registrando uma alta de 5,9% em 24 horas e atingindo o preço de 27k coins, um movimento impulsionado pela sua probabilidade de alta de 95% que indica uma forte demanda institucional ou de squads competitivas que não o abandonam mesmo em dias de crise. Essa performance isolada de Neves contrasta violentamente com o restante do segmento, sugerindo que seu preço atual ainda está subvalorizado em relação à sua utilidade no meta atual, o que atrai compradores de lastro que enxergam segurança onde outros veem risco. A consistência de Neves como ativo defensivo de mercado é evidente, pois ele consegue manter e aumentar seu valor enquanto gigantes do futebol despencam, o que o torna um candidato ideal para holdings de longo prazo que buscam proteção contra a volatilidade aguda da liga. A alta de Neves não é um acidente, mas sim o resultado de um desequilíbrio de oferta onde vendedores hesitam em liberar o card por medo de perderem um ativo seguro, enquanto compradores agressivos aproveitam a baixa disponibilidade para acumular estoque a um preço que promete retornos imediatos. Para o trader experiente, Neves representa a única aposta segura de alta probabilidade no dia, servindo como um porto seguro para capitalizar sem expor o portfólio aos riscos extremos que caracterizam o resto do mercado da Saudi Pro League neste momento específico.
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Saeed Al Owairan | 85 | ROSHN Saudi League | 40k coins | -47.1% | -63.7% |
-| Neymar Jr | 87 | ROSHN Saudi League | 59k coins | -44.1% | -71.5% |
-| Abdoulaye Doucouré | 87 | ROSHN Saudi League | 29k coins | -32.2% | -45.5% |
-| Julian Quiñones | 87 | ROSHN Saudi League | 71k coins | -29% | -20.7% |
-| João Félix | 84 | ROSHN Saudi League | 243k coins | -23% | -35.8% |
-| Cristiano Ronaldo | 92 | ROSHN Saudi League | 1.15M coins | -21.8% | -6.2% |
-| Malcom | 87 | ROSHN Saudi League | 34k coins | -21.2% | -21.2% |
-| N'Golo Kanté | 89 | ROSHN Saudi League | 190k coins | -19.5% | -5% |
-| Cristiano Ronaldo | 86 | ROSHN Saudi League | 255k coins | -13% | +4.4% |
-| Kingsley Coman | 87 | ROSHN Saudi League | 38k coins | -12.7% | -21% |
+| João Cancelo | 87 | ROSHN Saudi League | 52k coins | -41.2% | -27.8% |
+| Moussa Diaby | 90 | ROSHN Saudi League | 42k coins | -26.7% | -6.3% |
+| Abdoulaye Doucouré | 87 | ROSHN Saudi League | 35k coins | -20.9% | -36.4% |
+| Saeed Al Owairan | 91 | ROSHN Saudi League | 160k coins | -20.3% | -35.2% |
+| Cristiano Ronaldo | 92 | ROSHN Saudi League | 1.25M coins | -19% | -4% |
+| Cristiano Ronaldo | 89 | ROSHN Saudi League | 850k coins | -15% | +24.1% |
+| Cristiano Ronaldo | 88 | ROSHN Saudi League | 819k coins | -13.7% | +0.6% |
+| N'Golo Kanté | 89 | ROSHN Saudi League | 198k coins | -11.7% | 0% |
+| Kingsley Coman | 87 | ROSHN Saudi League | 38k coins | -5.6% | -3.8% |
+| Cristiano Ronaldo | 90 | ROSHN Saudi League | 4.50M coins | -3% | +17.4% |
 
 
-### Análise das baixas
-
-- **Saeed Al Owairan (85)** caiu **-47.1%** em 24h, a **40k coins** (faixa do dia: 39k–48k). Está -43% abaixo da média de 7 dias (descontada). 🔮 O modelo projeta **recuperação** (reversão para alta), com 95% de probabilidade.
-
-- **Neymar Jr (87)** caiu **-44.1%** em 24h, a **59k coins** (faixa do dia: 57k–118k). Está -63% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
-
-- **Abdoulaye Doucouré (87)** caiu **-32.2%** em 24h, a **29k coins** (faixa do dia: 26k–50k). Está -44% abaixo da média de 7 dias (descontada). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
+O outro extremo do espectro é dominado por quedas catastróficas, lideradas por João Cancelo, que despenca 41,2% em 24 horas para 52k coins, um movimento que reflete não apenas a falta de demanda, mas possivelmente um dump coordenado ou uma mudança iminente na meta que o torna obsoleto, apesar de sua probabilidade de alta de 43% sugerir que ainda há interesse residual. Moussa Diaby acompanha essa hemorragia com uma queda de 26,7% para 42k coins, um desconto brutal para um card de 90 OVR que indica uma perda massiva de confiança dos investidores, com apenas 17% de probabilidade de alta, o que sinaliza que o preço pode continuar caindo até encontrar um suporte muito mais baixo. Abdoulaye Doucouré também não escapa, caindo 20,9% para 35k coins, enquanto Saeed Al Owairan, um card lendário de 91 OVR, sofre uma queda de 20,3% para 160k coins, demonstrando que nem mesmo o status de lenda protege contra a pressão vendedora generalizada quando a probabilidade de alta é de apenas 38%. O mais preocupante é o comportamento dos cards de Cristiano Ronaldo, onde a versão 92 OVR cai 19% para 1,25M coins, a versão 89 OVR despencam 15% para 850k coins e a versão 88 OVR cai 13,7% para 819k coins, mostrando uma liquidação em massa dos ativos mais caros da liga que sugere um movimento de 'cash out' de grandes baleias que estão saindo do mercado. N'Golo Kanté completa o quadro sombrio com uma queda de 11,7% para 198k coins, e a probabilidade de alta de apenas 8% para ele e para o Ronaldo 88 OVR indica que o fundo ainda não foi atingido, alertando traders contra a compra prematura desses ativos que ainda possuem potencial de desvalorização significativa.
 
 
 ## 🔮 Radar de valorização (24h)
@@ -76,12 +65,12 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Enzo Millot | 89 | 18k coins | 21k coins | 95% |
-| Saeed Al Owairan | 85 | 40k coins | 47k coins | 95% |
-| Ibañez | 86 | 40k coins | 46k coins | 95% |
-| Sadio Mané | 88 | 190k coins | 237k coins | 95% |
-| Cristiano Ronaldo | 86 | 255k coins | 294k coins | 95% |
+| Ibañez | 86 | 41k coins | 47k coins | 95% |
+| Rúben Neves | 87 | 27k coins | 35k coins | 95% |
 | Iñigo Martínez | 86 | 32k coins | 36k coins | 84% |
+
+
+O modelo preditivo identifica três ativos com potencial de reversão imediata, liderados por Ibañez (86 OVR) e Rúben Neves (87 OVR), ambos com probabilidade de alta de 95%, o que os torna os ativos mais seguros para entrada no momento, com Ibañez cotado a 41k coins e Neves a 27k coins. Iñigo Martínez (86 OVR) aparece como uma terceira opção sólida com probabilidade de alta de 84% e preço de 32k coins, oferecendo um equilíbrio entre risco e retorno para traders que desejam diversificar suas posições de curto prazo. Esses dados de previsão são cruciais porque indicam que, apesar do sentimento negativo geral, há suporte algorítmico e de mercado para esses três jogadores específicos, sugerindo que a venda excessiva em outros ativos está redirecionando capital para esses poucos cartões que mantêm sua integridade estrutural de preço. A alta probabilidade de sucesso para Ibañez e Neves indica que eles estão próximos de pontos de compra massiva, possivelmente devido a atualizações de meta ou promoções iminentes que valorizam suas estatísticas, enquanto Iñigo Martínez oferece uma alternativa de defesa estável. Ignorar essas previsões seria negligenciar a única lógica matemática disponível em um dia de alta volatilidade, pois elas apontam diretamente para onde o capital inteligente está se acumulando em segredo enquanto o mercado retail panifica nas quedas dos cards mais populares.
 
 
 ## ⚠️ Cuidado: o modelo projeta queda
@@ -90,14 +79,17 @@ O modelo vê **risco de queda** nestas nas próximas 24h — segure a compra:
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Musab Al Juwair | 87 | 26k coins | -23.8% |
-| Karim Benzema | 88 | 39k coins | -34.2% |
+| Saeed Al Rubaie | 83 | 35k coins | -17.1% |
+| Karim Benzema | 88 | 40k coins | -34.2% |
 | Rúben Neves | 87 | 30k coins | -21.4% |
-| Malcom | 87 | 34k coins | -12.6% |
-| João Félix | 84 | 243k coins | -12.6% |
-| N'Golo Kanté | 89 | 190k coins | -12.6% |
+| N'Golo Kanté | 89 | 198k coins | -12.6% |
 | Joshua King | 85 | 16k coins | -10.2% |
-| Moussa Diaby | 90 | 39k coins | -10% |
+| Moussa Diaby | 90 | 42k coins | -10% |
+| Abdoulaye Doucouré | 87 | 35k coins | -6.8% |
+
+
+## 🎯 O que fazer hoje
+A estratégia do dia deve ser extremamente seletiva e defensiva, focando exclusivamente na compra de Rúben Neves a 27k coins e Ibañez a 41k coins, que possuem a maior probabilidade de retorno positivo imediato de 95%, enquanto se evita completamente a compra de ativos de queda livre como Cancelo e Diaby que ainda não mostraram sinais de estabilização. Traders conservadores devem segurar suas posições em Iñigo Martínez a 32k coins, aproveitando a probabilidade de alta de 84% para garantir lucros de curto prazo sem expor o capital a riscos desnecessários em um mercado tão hostil. É imperativo evitar qualquer tentativa de 'pegar a faca caindo' nos cards de Cristiano Ronaldo, especialmente a versão 88 OVR a 819k coins com apenas 8% de probabilidade de alta, pois o risco de perda adicional é extremamente elevado e o suporte de preço ainda não foi testado. O timing ideal para entrada é agora, aproveitando a liquidez gerada pelo pânico dos vendedores para acumular os ativos de alta probabilidade antes que o preço se recupere nas próximas horas, enquanto se mantém uma reserva de cash para oportunidades emergentes. Lembre-se que neste dia de média negativa de 12,15%, a paciência e a disciplina para seguir os dados de probabilidade em vez do sentimento de medo ou ganância serão os determinantes entre um trader que lucra e um que vê seu capital evaporar em quedas irreversíveis.
 
 
 ## 📊 Nossa metodologia em 30 segundos
@@ -107,16 +99,16 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
-Darwin Núñez (90, ROSHN Saudi League), com +10.6% em 24h, a 76k coins no Console (PS).
+Rúben Neves (87, ROSHN Saudi League), com +5.9% em 24h, a 27k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Saeed Al Owairan (85), -47.1% em 24h, a 40k coins.
+João Cancelo (87), -41.2% em 24h, a 52k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Enzo Millot (89) — 95% de probabilidade de alta, a 18k coins.
+Pelo modelo FutQuant, Ibañez (86) — 95% de probabilidade de alta, a 41k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 3 cartas em alta contra 22 em queda (média -12.9%).
+Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 2 cartas em alta contra 17 em queda (média -12.15%).
 
 **Posso confiar nos preços e previsões do FutQuant?**  
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
