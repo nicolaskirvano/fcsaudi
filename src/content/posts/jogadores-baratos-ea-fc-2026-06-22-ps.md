@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-22T10:38:05.000Z
+pubDatetime: 2026-06-23T01:38:05.000Z
 title: "Jogadores baratos de Saudi Pro League no EA FC (22/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 22/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (22/06/2026)?"
-    a: "Enzo Millot (89, ROSHN Saudi League) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
+    a: "Enzo Millot (89, ROSHN Saudi League) aparece como melhor custo-benefício, a 14k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **22/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Enzo Millot (89) por apenas 12k coins.
+> 💰 **Melhor pechincha:** Enzo Millot (89) por apenas 14k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,21 +29,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Enzo Millot | 89 | CAM | ROSHN Saudi League | 12k coins | -31.5% |
-| Sami Al Jaber | 86 | ST | ROSHN Saudi League | 13k coins | -52.2% |
-| Karim Benzema | 85 | ST | ROSHN Saudi League | 5k coins | -9.1% |
-| Mohammed Noor | 85 | CAM | ROSHN Saudi League | 14k coins | -40% |
+| Enzo Millot | 89 | CAM | ROSHN Saudi League | 14k coins | -23.7% |
+| Sami Al Jaber | 86 | ST | ROSHN Saudi League | 12k coins | -66.2% |
+| Mohammed Noor | 85 | CAM | ROSHN Saudi League | 12k coins | -45.5% |
+| Joshua King | 85 | ST | ROSHN Saudi League | 14k coins | -22.9% |
+| João Cancelo | 84 | RB | ROSHN Saudi League | 2k coins | -16.7% |
 
 
 ## 📈 Destaques
 
-- **Enzo Millot (89, CAM)** da ROSHN Saudi League, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Enzo Millot (89, CAM)** da ROSHN Saudi League, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Sami Al Jaber (86, ST)** da ROSHN Saudi League, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Sami Al Jaber (86, ST)** da ROSHN Saudi League, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Karim Benzema (85, ST)** da ROSHN Saudi League, a apenas **5k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Mohammed Noor (85, CAM)** da ROSHN Saudi League, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mohammed Noor (85, CAM)** da ROSHN Saudi League, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Joshua King (85, ST)** da ROSHN Saudi League, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **João Cancelo (84, RB)** da ROSHN Saudi League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -60,7 +63,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (22/06/2026)?**  
-Enzo Millot (89, ROSHN Saudi League) aparece como melhor custo-benefício, a 12k coins no Console (PS).
+Enzo Millot (89, ROSHN Saudi League) aparece como melhor custo-benefício, a 14k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
