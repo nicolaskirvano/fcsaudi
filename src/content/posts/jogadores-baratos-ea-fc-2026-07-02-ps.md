@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-02T19:38:05.000Z
+pubDatetime: 2026-07-02T22:38:05.000Z
 title: "Jogadores baratos de Saudi Pro League no EA FC (02/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,10 +29,10 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 2k coins | +26.7% |
+| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 2k coins | +70% |
 | Karim Benzema | 85 | ST | ROSHN Saudi League | 6k coins | -1.6% |
-| Mohammed Noor | 85 | CAM | ROSHN Saudi League | 12k coins | +4.1% |
-| João Cancelo | 84 | RB | ROSHN Saudi League | 2k coins | -6.2% |
+| Mohammed Noor | 85 | CAM | ROSHN Saudi League | 13k coins | +6.1% |
+| Joshua King | 85 | ST | ROSHN Saudi League | 15k coins | -21.1% |
 
 
 ## 📈 Destaques
@@ -41,9 +41,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Karim Benzema (85, ST)** da ROSHN Saudi League, a apenas **6k coins**
 
-- **Mohammed Noor (85, CAM)** da ROSHN Saudi League, a apenas **12k coins**
+- **Mohammed Noor (85, CAM)** da ROSHN Saudi League, a apenas **13k coins**
 
-- **João Cancelo (84, RB)** da ROSHN Saudi League, a apenas **2k coins**
+- **Joshua King (85, ST)** da ROSHN Saudi League, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
