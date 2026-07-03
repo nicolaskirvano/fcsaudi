@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-03T19:38:09.000Z
+pubDatetime: 2026-07-03T22:38:09.000Z
 title: "Jogadores baratos de Saudi Pro League no EA FC (03/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 03/07/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (03/07/2026)?"
-    a: "Mohammed Noor (88, ROSHN Saudi League) aparece como melhor custo-benefício, a 12k coins no PC."
+    a: "Mohammed Noor (88, ROSHN Saudi League) aparece como melhor custo-benefício, a 15k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **03/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Mohammed Noor (88) por apenas 12k coins.
+> 💰 **Melhor pechincha:** Mohammed Noor (88) por apenas 15k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,24 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mohammed Noor | 88 | CAM | ROSHN Saudi League | 12k coins | -11.5% |
-| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 5k coins | -45.1% |
-| Karim Benzema | 85 | ST | ROSHN Saudi League | 12k coins | -17.3% |
-| Mohammed Noor | 85 | CAM | ROSHN Saudi League | 12k coins | -4% |
-| Joshua King | 85 | ST | ROSHN Saudi League | 14k coins | -34% |
+| Mohammed Noor | 88 | CAM | ROSHN Saudi League | 15k coins | -8.2% |
+| Sami Al Jaber | 86 | ST | ROSHN Saudi League | 13k coins | -7.1% |
+| Mohammed Noor | 85 | CAM | ROSHN Saudi League | 12k coins | -2.1% |
+| Karim Benzema | 85 | ST | ROSHN Saudi League | 13k coins | -7.7% |
 
 
 ## 📈 Destaques
 
-- **Mohammed Noor (88, CAM)** da ROSHN Saudi League, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Mohammed Noor (88, CAM)** da ROSHN Saudi League, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **N'Golo Kanté (85, CDM)** da ROSHN Saudi League, a apenas **5k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Karim Benzema (85, ST)** da ROSHN Saudi League, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Sami Al Jaber (86, ST)** da ROSHN Saudi League, a apenas **13k coins**
 
 - **Mohammed Noor (85, CAM)** da ROSHN Saudi League, a apenas **12k coins**
 
-- **Joshua King (85, ST)** da ROSHN Saudi League, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Karim Benzema (85, ST)** da ROSHN Saudi League, a apenas **13k coins**
 
 
 ## Por que estas cartas?
@@ -63,7 +60,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (03/07/2026)?**  
-Mohammed Noor (88, ROSHN Saudi League) aparece como melhor custo-benefício, a 12k coins no PC.
+Mohammed Noor (88, ROSHN Saudi League) aparece como melhor custo-benefício, a 15k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
