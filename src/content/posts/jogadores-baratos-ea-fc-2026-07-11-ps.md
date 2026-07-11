@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-11T10:38:05.000Z
+pubDatetime: 2026-07-11T13:38:05.000Z
 title: "Jogadores baratos de Saudi Pro League no EA FC (11/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sami Al Jaber | 86 | ST | ROSHN Saudi League | 13k coins | +2% |
-| Cristiano Ronaldo | 85 | ST | ROSHN Saudi League | 2k coins | +15.4% |
-| Karim Benzema | 85 | ST | ROSHN Saudi League | 5k coins | -13.3% |
-| Mohammed Noor | 85 | CAM | ROSHN Saudi League | 12k coins | +5.7% |
+| Sami Al Jaber | 86 | ST | ROSHN Saudi League | 13k coins | 0% |
+| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 2k coins | +12.5% |
+| Karim Benzema | 85 | ST | ROSHN Saudi League | 5k coins | -15% |
+| Mohammed Noor | 85 | CAM | ROSHN Saudi League | 13k coins | 0% |
 
 
 ## 📈 Destaques
 
 - **Sami Al Jaber (86, ST)** da ROSHN Saudi League, a apenas **13k coins**
 
-- **Cristiano Ronaldo (85, ST)** da ROSHN Saudi League, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **N'Golo Kanté (85, CDM)** da ROSHN Saudi League, a apenas **2k coins**
 
 - **Karim Benzema (85, ST)** da ROSHN Saudi League, a apenas **5k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mohammed Noor (85, CAM)** da ROSHN Saudi League, a apenas **12k coins**
+- **Mohammed Noor (85, CAM)** da ROSHN Saudi League, a apenas **13k coins**
 
 
 ## Por que estas cartas?
