@@ -5,9 +5,9 @@ export default defineAstroPaperConfig({
     url: "https://fcsaudi.pages.dev/",
     title: "Saudi League Market",
     description:
-      "Precos e mercado da Saudi Pro League no EA FC Ultimate Team, atualizados todos os dias.",
+      "preços e mercado da Saudi Pro League no EA FC Ultimate Team, atualizados todos os dias.",
     author: "Saudi League Market",
-    profile: "https://fcsaudi.pages.dev/",
+    profile: "https://fcsaudi.pages.dev/about/",
     publisher: {
       type: "Organization",
       name: "Saudi League Market",
