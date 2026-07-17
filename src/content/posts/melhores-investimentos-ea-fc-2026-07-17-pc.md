@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T13:38:18.000Z
+pubDatetime: 2026-07-17T16:38:18.000Z
 title: "Investimentos EA FC: Saudi Pro League em 17/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 17/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (17/07/2026) no EA FC?"
-    a: "Saeed Al Owairan (86, ROSHN Saudi League) lidera, com +66.5% em 7 dias a 154k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Salem Al Dawsari (91, ROSHN Saudi League) lidera, com +66.7% em 7 dias a 65k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Saeed Al Owairan (86) acumula **+66.5% em 7 dias** a 154k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Salem Al Dawsari (91) acumula **+66.7% em 7 dias** a 65k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Saudi Pro League em 17/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-17-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+9.1% em 24h** e **+33.3% em 7 dias**.
-- **2 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **ROSHN Saudi League** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+19.3% em 24h** e **+37.5% em 7 dias**.
+- **2 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **ROSHN Saudi League** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,26 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Saeed Al Owairan | 86 | ROSHN Saudi League | 154k coins | +11.6% | +66.5% | Esticada |
-| Salem Al Dawsari | 91 | ROSHN Saudi League | 60k coins | +16.5% | +62.8% | Esticada |
-| Karim Benzema | 88 | ROSHN Saudi League | 157k coins | +4% | +56% | Momentum moderado |
-| Theo Hernández | 88 | ROSHN Saudi League | 119k coins | +9.1% | +33.3% | Momentum moderado |
-| Abdoulaye Doucouré | 87 | ROSHN Saudi League | 90k coins | +2.9% | +31.4% | Momentum moderado |
-| Moussa Diaby | 90 | ROSHN Saudi League | 53k coins | +9.4% | +28.9% | Momentum moderado |
-| Rúben Neves | 87 | ROSHN Saudi League | 29k coins | +6.4% | +16% | Momentum moderado |
+| Salem Al Dawsari | 91 | ROSHN Saudi League | 65k coins | +19.3% | +66.7% | Esticada |
+| Moussa Diaby | 90 | ROSHN Saudi League | 60k coins | +5.3% | +57.9% | Momentum moderado |
+| Enzo Millot | 89 | ROSHN Saudi League | 26k coins | +31% | +37.5% | Esticada |
+| Rúben Neves | 87 | ROSHN Saudi League | 20k coins | +13.3% | +11% | Momentum moderado |
+| Theo Hernández | 88 | ROSHN Saudi League | 110k coins | +19.4% | +9.9% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Saeed Al Owairan (86)** — 154k coins, **+66.5% em 7 dias** (+11.6% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Salem Al Dawsari (91)** — 65k coins, **+66.7% em 7 dias** (+19.3% em 24h). Preço +56% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Salem Al Dawsari (91)** — 60k coins, **+62.8% em 7 dias** (+16.5% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Moussa Diaby (90)** — 60k coins, **+57.9% em 7 dias** (+5.3% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Karim Benzema (88)** — 157k coins, **+56% em 7 dias** (+4% em 24h). Preço +58% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Enzo Millot (89)** — 26k coins, **+37.5% em 7 dias** (+31% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Theo Hernández (88)** — 119k coins, **+33.3% em 7 dias** (+9.1% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rúben Neves (87)** — 20k coins, **+11% em 7 dias** (+13.3% em 24h). Preço -24% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Abdoulaye Doucouré (87)** — 90k coins, **+31.4% em 7 dias** (+2.9% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Theo Hernández (88)** — 110k coins, **+9.9% em 7 dias** (+19.4% em 24h). Preço em linha com a média de 7 dias (-7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -80,7 +78,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (17/07/2026) no EA FC?**  
-Saeed Al Owairan (86, ROSHN Saudi League) lidera, com +66.5% em 7 dias a 154k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Salem Al Dawsari (91, ROSHN Saudi League) lidera, com +66.7% em 7 dias a 65k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
