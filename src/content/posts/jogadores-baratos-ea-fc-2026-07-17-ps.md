@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T10:38:10.000Z
+pubDatetime: 2026-07-17T13:38:10.000Z
 title: "Jogadores baratos EA FC: Saudi Pro League em 17/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 4 opções:** 6.812 coins.
+- **Preço médio das 4 opções:** 7.512 coins.
 - **Posição mais frequente:** ST, com 2 cartas.
-- **Faixa real:** 3.300 a 12.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 2.900 a 12.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,26 +40,26 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Sami Al Jaber | 86 | ST | ROSHN Saudi League | 12.750 coins | +8.2% |
-| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 3.300 coins | +28% |
-| Karim Benzema | 85 | ST | ROSHN Saudi League | 4.500 coins | +3.8% |
-| Neymar Jr | 83 | CAM | ROSHN Saudi League | 6.700 coins | +41.9% |
+| Sami Al Jaber | 86 | ST | ROSHN Saudi League | 12.750 coins | +6.2% |
+| Karim Benzema | 85 | ST | ROSHN Saudi League | 2.900 coins | -1.8% |
+| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 2.900 coins | +20.8% |
+| Neymar Jr | 83 | CAM | ROSHN Saudi League | 11.500 coins | +33.1% |
 
 
 ## 📈 Destaques
 
 - **Sami Al Jaber (86, ST)** da ROSHN Saudi League, a apenas **12.750 coins**
 
-- **N'Golo Kanté (85, CDM)** da ROSHN Saudi League, a apenas **3.300 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Karim Benzema (85, ST)** da ROSHN Saudi League, a apenas **2.900 coins**
 
-- **Karim Benzema (85, ST)** da ROSHN Saudi League, a apenas **4.500 coins**
+- **N'Golo Kanté (85, CDM)** da ROSHN Saudi League, a apenas **2.900 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Neymar Jr (83, CAM)** da ROSHN Saudi League, a apenas **6.700 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Neymar Jr (83, CAM)** da ROSHN Saudi League, a apenas **11.500 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
 
 ## Como distribuir a banca
 
-- **Meio:** N'Golo Kanté (85, CDM) por 3.300 coins é a referência de rating deste recorte.
+- **Meio:** N'Golo Kanté (85, CDM) por 2.900 coins é a referência de rating deste recorte.
 
 - **Ataque:** Sami Al Jaber (86, ST) por 12.750 coins é a referência de rating deste recorte.
 
