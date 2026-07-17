@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Saudi League Market"
 pubDatetime: 2026-06-21T01:38:51.000Z
-title: "Saudi Pro League no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — Console (PS)"
+title: "Saudi Pro League no EA FC em 20/06: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,21 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Ibañez (86, ROSHN Saudi League), com +58.6% em 24h, a 68k coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "Saeed Al Owairan (86), -42.4% em 24h, a 50k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Rúben Neves (87) — 95% de probabilidade de alta, a 19k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 14 cartas em alta contra 15 em queda (média 2.39%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 20/06/2026 no PS: Ibañez liderou as altas e Saeed Al Owairan as baixas em Saudi Pro League. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 20/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Ibañez** registrou o maior movimento de 24h (+58,6%), enquanto **Saeed Al Owairan** marcou o menor (-42,4%). A distância entre os extremos foi de **101,0 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+0,1%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Saudi Pro League no EA FC em 20/06: altas e baixas — PS](/charts/mercado-ea-fc-2026-06-20-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O mercado de Ultimate Team para o segmento Saudi Pro League em consoles PlayStation apresenta um cenário de volatilidade controlada com viés claramente comprador, marcado por uma média de valorização de 2.39% nas últimas 24 horas, onde predominam as altas sobre as quedas em uma proporção de 14 para 15 movimentos registrados. A dinâmica do dia é definida por uma forte especulação em cartas de rating médio que estão reagindo a eventos de jogo ou promoções sazonais, criando oportunidades de arbitragem rápida para traders ágeis que monitoram as flutuações de preço em tempo real. O tom do mercado sugere cautela otimista, pois embora haja valorizações expressivas, a presença de quedas significativas em ativos de alto valor indica que o capital dos jogadores está sendo redistribuído estrategicamente em vez de seguir uma tendência linear de alta generalizada. Investidores devem focar na liquidez das cartas mais baratas e na probabilidade de alta indicada pelos modelos preditivos, evitando expor grandes somas em ativos ilíquidos sem suporte fundamental claro. A análise dos dados revela que a chave para o lucro hoje está na identificação de quais valorizações são sustentáveis e quais são apenas ruído de mercado passageiro.
 
@@ -68,7 +71,7 @@ Ibañez surge como o principal destaque de valorização com um impressionante a
 Saeed Al Owairan na versão de rating 86 sofreu uma queda drástica de 42.4%, caindo para 50k coins com baixa probabilidade de alta de 18%, indicando um ajuste de preço severo que provavelmente resultará em perdas para quem manteve o ativo esperando recuperação imediata. A versão de rating 91 do mesmo jogador também recuou 19.3% para 124k coins, com 38% de probabilidade de alta, sugerindo que o mercado está reavaliando o valor premium desta carta em meio à saturação de ofertas ou falta de demanda competitiva. Carlos Júnior despencou 17.1% para 34k coins com apenas 28% de probabilidade de alta, refletindo uma perda de confiança dos traders nesta carta específica, possivelmente devido à saída de metagame ou disponibilidade excessiva no mercado de transferência. João Félix, na versão de rating 86, caiu 15.9% para 155k coins, mas surpreendentemente mantém alta probabilidade de alta de 84%, o que pode indicar uma oportunidade de compra em baixa para traders de longo prazo que acreditam na correção de preço temporária. N'Golo Kanté recuou 13.3% para 170k coins com baixa probabilidade de alta de 8%, consolidando uma tendência de baixa que deve ser evitada por enquanto, enquanto Cristiano Ronaldo, apesar da queda de 9.8% para 4.40M coins, mantém 95% de probabilidade de alta, sugerindo que a volatilidade é normal para ativos de alta captação e que o preço pode se estabilizar rapidamente.
 
 
-## 🔮 O que o modelo prevê para as próximas 24h
+## 🔮 Previsão registrada naquele snapshot
 
 Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alta confiança):
 
@@ -111,19 +114,19 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (20/06/2026)?**
 Ibañez (86, ROSHN Saudi League), com +58.6% em 24h, a 68k coins no Console (PS).
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Saeed Al Owairan (86), -42.4% em 24h, a 50k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Rúben Neves (87) — 95% de probabilidade de alta, a 19k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Rúben Neves (87) — 95% de probabilidade de alta, a 19k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 14 cartas em alta contra 15 em queda (média 2.39%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava em alta — predominam as valorizações, com 14 cartas em alta contra 15 em queda (média 2.39%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -132,3 +135,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de Console (PS), referência de 20/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Momentum de Saudi Pro League no EA FC em 16/07 — PS](/posts/melhores-investimentos-ea-fc-2026-07-16-ps/)
+- [Saudi Pro League baratos no EA FC em 15/07 — PS](/posts/jogadores-baratos-ea-fc-2026-07-15-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

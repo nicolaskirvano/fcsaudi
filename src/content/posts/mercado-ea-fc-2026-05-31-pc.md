@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Saudi League Market"
 pubDatetime: 2026-06-01T01:38:02.000Z
-title: "Saudi Pro League no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — PC"
+title: "Saudi Pro League no EA FC em 31/05: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,21 +10,26 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 31/05/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (31/05/2026)?"
-    a: "Saeed Al Owairan (85, ROSHN Saudi League), com +41.2% em 24h, a 62k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Riyad Mahrez (87), -39.7% em 24h, a 100k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 21 cartas em alta contra 10 em queda (média 12.62%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 31/05/2026 no PC: Saeed Al Owairan liderou as altas e Riyad Mahrez as baixas em Saudi Pro League. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 31/05/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **21 subiram** e **10 caíram**, com variação média de **12.62%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+## Leitura do recorte
+
+Nas 15 cartas destacadas nas tabelas, **Saeed Al Owairan** registrou o maior movimento de 24h (+41,2%), enquanto **Riyad Mahrez** marcou o menor (-39,7%). A distância entre os extremos foi de **80,9 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+13,2%**: 10 destaques subiam e 5 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Saudi Pro League no EA FC em 31/05: altas e baixas — PC](/charts/mercado-ea-fc-2026-05-31-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
+
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** estava em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **21 subiram** e **10 caíram**, com variação média de **12.62%** nas últimas 24 horas. O recorte mostrava viés comprador — cuidado para não pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Saeed Al Owairan (85) **+41.2%** · 🔴 **Maior baixa:** Riyad Mahrez (87) **-39.7%**
 
@@ -46,11 +51,11 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 
 ### Análise das altas
 
-- **Saeed Al Owairan (85)** subiu **+41.2%** em 24h, a **62k coins** (faixa do dia: 44k–90k). Está em linha com a média de 7 dias (-8%). O modelo vê **estabilização** no curto prazo.
+- **Saeed Al Owairan (85)** subiu **+41.2%** em 24h, a **62k coins** (faixa do dia: 44k–90k). Está em linha com a média de 7 dias (-8%). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Saeed Al Owairan (91)** subiu **+36.5%** em 24h, a **378k coins** (faixa do dia: 301k–400k). Está +22% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Saeed Al Owairan (91)** subiu **+36.5%** em 24h, a **378k coins** (faixa do dia: 301k–400k). Está +22% acima da média de 7 dias (aquecida). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Abdoulaye Doucouré (87)** subiu **+32.6%** em 24h, a **32k coins** (faixa do dia: 20k–56k). Está -12% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Abdoulaye Doucouré (87)** subiu **+32.6%** em 24h, a **32k coins** (faixa do dia: 20k–56k). Está -12% abaixo da média de 7 dias (descontada). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
 
 ## 🔴 Maiores baixas (24h)
@@ -66,11 +71,11 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 
 ### Análise das baixas
 
-- **Riyad Mahrez (87)** caiu **-39.7%** em 24h, a **100k coins** (faixa do dia: 100k–165k). Está -14% abaixo da média de 7 dias (descontada). 🔮 O modelo projeta **recuperação** (reversão para alta), com 76% de probabilidade.
+- **Riyad Mahrez (87)** caiu **-39.7%** em 24h, a **100k coins** (faixa do dia: 100k–165k). Está -14% abaixo da média de 7 dias (descontada). 🔮 Naquele snapshot, o modelo projetava **recuperação** (reversão para alta), com 76% de probabilidade.
 
-- **Cristiano Ronaldo (88)** caiu **-31.8%** em 24h, a **5.80M coins** (faixa do dia: 3.59M–8.50M). Está -22% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Cristiano Ronaldo (88)** caiu **-31.8%** em 24h, a **5.80M coins** (faixa do dia: 3.59M–8.50M). Está -22% abaixo da média de 7 dias (descontada). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **João Félix (84)** caiu **-24.3%** em 24h, a **265k coins** (faixa do dia: 259k–475k). Está -54% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **João Félix (84)** caiu **-24.3%** em 24h, a **265k coins** (faixa do dia: 259k–475k). Está -54% abaixo da média de 7 dias (descontada). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -80,16 +85,16 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (31/05/2026)?**  
+**Qual foi a maior alta do EA FC hoje (31/05/2026)?**
 Saeed Al Owairan (85, ROSHN Saudi League), com +41.2% em 24h, a 62k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Riyad Mahrez (87), -39.7% em 24h, a 100k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 21 cartas em alta contra 10 em queda (média 12.62%).
+**Como estava o mercado do EA FC nesse dia?**
+Naquele dia, o mercado estava em alta — predominam as valorizações, com 21 cartas em alta contra 10 em queda (média 12.62%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
+**Os dados de preço do FutQuant são confiáveis?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -98,3 +103,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 31/05/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Saudi Pro League baratos no EA FC em 31/05 — PC](/posts/jogadores-baratos-ea-fc-2026-05-31-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Saudi Pro League baratos no EA FC em 15/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-15-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

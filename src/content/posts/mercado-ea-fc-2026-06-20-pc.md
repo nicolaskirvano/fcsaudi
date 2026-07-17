@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Saudi League Market"
 pubDatetime: 2026-06-21T01:39:35.000Z
-title: "Saudi Pro League no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — PC"
+title: "Saudi Pro League no EA FC em 20/06: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,19 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "João Félix (93, ROSHN Saudi League), com +51.7% em 24h, a 710k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Abdoulaye Doucouré (87), -19.2% em 24h, a 40k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 16 cartas em alta contra 16 em queda (média 5.11%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 20/06/2026 no PC: João Félix liderou as altas e Abdoulaye Doucouré as baixas em Saudi Pro League. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 20/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 19 cartas destacadas nas tabelas, **João Félix** registrou o maior movimento de 24h (+51,7%), enquanto **Abdoulaye Doucouré** marcou o menor (-19,2%). A distância entre os extremos foi de **70,9 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+11,5%**: 10 destaques subiam e 9 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Saudi Pro League no EA FC em 20/06: altas e baixas — PC](/charts/mercado-ea-fc-2026-06-20-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O mercado da Saudi Pro League em PC apresenta um cenário de forte otimista hoje, 20 de junho de 2026, com um equilíbrio delicado mas inclinado para valorizações, registrando 16 altas contra 16 quedas e uma média de variação positiva de 5.11% nas últimas 24 horas. Esse contexto de sentimento em alta sugere que os traders estão posicionando-se agressivamente em cartas de impacto visual e nomes históricos, buscando lucros rápidos antes de possíveis ajustes de preço ou eventos do jogo. A volatilidade é palpável, com movimentos significativos tanto na compra quanto na venda, exigindo atenção redobrada às probabilidades de alta projetadas pelo modelo para evitar armadilhas de momentum. A predominância de valorizações indica que a demanda por ativos específicos supera a oferta momentânea, criando oportunidades de entrada estratégica para quem souber identificar os pontos de compra ideais. É crucial observar que, apesar da média positiva, a dispersão entre as altas e baixas revela um mercado seletivo, onde apenas jogadores com narrativa forte ou utilidade imediata em squads estão sendo recompensados pelos especuladores.
 
@@ -75,16 +80,16 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (20/06/2026)?**
 João Félix (93, ROSHN Saudi League), com +51.7% em 24h, a 710k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Abdoulaye Doucouré (87), -19.2% em 24h, a 40k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 16 cartas em alta contra 16 em queda (média 5.11%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava em alta — predominam as valorizações, com 16 cartas em alta contra 16 em queda (média 5.11%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -93,3 +98,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 20/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Momentum de Saudi Pro League no EA FC em 20/06 — PC](/posts/melhores-investimentos-ea-fc-2026-06-20-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Saudi Pro League baratos no EA FC em 15/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-15-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)
