@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T17:23:20.000Z
+pubDatetime: 2026-07-17T19:38:17.000Z
 title: "Mercado EA FC em 17/07: Saudi Pro League — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 17/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (17/07/2026)?"
-    a: "João Félix (86, ROSHN Saudi League), com +49.1% em 24h, a 243k coins no PC."
+    a: "Salem Al Dawsari (91, ROSHN Saudi League), com +38.3% em 24h, a 55k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Malcom (87), -16.3% em 24h, a 50k coins."
+    a: "Kingsley Coman (87), -22.7% em 24h, a 30k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 24 cartas em alta contra 13 em queda (média 14.48%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 18 cartas em alta contra 15 em queda (média 12.54%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **17/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **24 subiram** e **13 caíram**, com variação média de **14.48%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **17/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **18 subiram** e **15 caíram**, com variação média de **12.54%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** João Félix (86) **+49.1%** · 🔴 **Maior baixa:** Malcom (87) **-16.3%**
+> 🟢 **Maior alta:** Salem Al Dawsari (91) **+38.3%** · 🔴 **Maior baixa:** Kingsley Coman (87) **-22.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 17/07: Saudi Pro League — PC](/charts/mercado-ea-fc-2026-07-17-pc.svg)
 
@@ -35,24 +35,24 @@ Em **17/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em alt
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 65.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 64.9% entre as cartas que se moveram; o universo observado reúne 41 cartas.
-- **Concentração:** ROSHN Saudi League aparece em 15 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 61.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 54.5% entre as cartas que se moveram; o universo observado reúne 37 cartas.
+- **Concentração:** ROSHN Saudi League aparece em 18 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| João Félix | 86 | ROSHN Saudi League | 243k coins | +49.1% | -10% |
-| Sami Al Jaber | 86 | ROSHN Saudi League | 21k coins | +47.8% | +90.4% |
-| Karim Benzema | 87 | ROSHN Saudi League | 100k coins | +42.9% | +2% |
-| Cristiano Ronaldo | 88 | ROSHN Saudi League | 2.40M coins | +41.2% | +33.3% |
-| Saeed Al Owairan | 91 | ROSHN Saudi League | 260k coins | +38.3% | +1.2% |
-| Ibañez | 86 | ROSHN Saudi League | 70k coins | +33.1% | -18.7% |
-| Enzo Millot | 89 | ROSHN Saudi League | 25k coins | +25% | +26.5% |
-| Salem Al Dawsari | 91 | ROSHN Saudi League | 65k coins | +20.4% | +66.7% |
-| Theo Hernández | 88 | ROSHN Saudi League | 108k coins | +19.4% | +9.9% |
+| Salem Al Dawsari | 91 | ROSHN Saudi League | 55k coins | +38.3% | +66.7% |
+| Saeed Al Owairan | 91 | ROSHN Saudi League | 260k coins | +36.7% | -1.2% |
+| Firas Al Birekan | 89 | ROSHN Saudi League | 63k coins | +32.7% | +4% |
+| Enzo Millot | 89 | ROSHN Saudi League | 26k coins | +29.1% | +22.9% |
+| Rúben Neves | 87 | ROSHN Saudi League | 27k coins | +21.1% | +9% |
 | Chris Smalling | 87 | ROSHN Saudi League | 46k coins | +18.5% | +1.6% |
+| Ibañez | 86 | ROSHN Saudi League | 68k coins | +16.9% | -24.6% |
+| Karim Benzema | 88 | ROSHN Saudi League | 157k coins | +13.6% | — |
+| Sergej Milinković-Savić | 86 | ROSHN Saudi League | 46k coins | +12.2% | -2.6% |
+| Theo Hernández | 88 | ROSHN Saudi League | 98k coins | +8.9% | -1.5% |
 
 
 ### Análise das altas
@@ -61,38 +61,41 @@ Em **17/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em alt
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **João Félix (86)** subiu **+49.1%** em 24h, a **243k coins** (faixa do dia: 127k–270k). Está +10% acima da média de 7 dias (aquecida).
+- **Salem Al Dawsari (91)** subiu **+38.3%** em 24h, a **55k coins** (faixa do dia: 38k–65k). Está +31% acima da média de 7 dias (aquecida).
 
-- **Sami Al Jaber (86)** subiu **+47.8%** em 24h, a **21k coins** (faixa do dia: 10.750–26k). Está +13% acima da média de 7 dias (aquecida).
+- **Saeed Al Owairan (91)** subiu **+36.7%** em 24h, a **260k coins** (faixa do dia: 188k–260k). Está +9% acima da média de 7 dias (aquecida).
 
-- **Karim Benzema (87)** subiu **+42.9%** em 24h, a **100k coins** (faixa do dia: 70k–100k). Está em linha com a média de 7 dias (+6%).
+- **Firas Al Birekan (89)** subiu **+32.7%** em 24h, a **63k coins** (faixa do dia: 30k–68k). Está +38% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Malcom | 87 | ROSHN Saudi League | 50k coins | -16.3% | -7.2% |
-| Saeed Al Owairan | 85 | ROSHN Saudi League | 58k coins | -13.1% | -5.9% |
-| Iñigo Martínez | 87 | ROSHN Saudi League | 42k coins | -9.1% | -2.3% |
-| N'Golo Kanté | 89 | ROSHN Saudi League | 270k coins | -6.8% | -9.4% |
+| Kingsley Coman | 87 | ROSHN Saudi League | 30k coins | -22.7% | -30.4% |
+| Cristiano Ronaldo | 86 | ROSHN Saudi League | 405k coins | -19% | -19% |
+| Mohamed Simakan | 86 | ROSHN Saudi League | 36k coins | -14.8% | -5.3% |
+| Iñigo Martínez | 87 | ROSHN Saudi League | 45k coins | -13% | +0.6% |
+| Malcom | 87 | ROSHN Saudi League | 52k coins | -11.9% | -21.8% |
+| João Félix | 93 | ROSHN Saudi League | 720k coins | -10% | +1.6% |
+| Moussa Diaby | 90 | ROSHN Saudi League | 53k coins | -7% | +39.5% |
 | Carlos Júnior | 84 | ROSHN Saudi League | 55k coins | -4.3% | -8.3% |
 
 
 ### Análise das baixas
 
-- **Malcom (87)** caiu **-16.3%** em 24h, a **50k coins** (faixa do dia: 48k–69k). Está -15% abaixo da média de 7 dias (descontada).
+- **Kingsley Coman (87)** caiu **-22.7%** em 24h, a **30k coins** (faixa do dia: 27k–38k). Está -30% abaixo da média de 7 dias (descontada).
 
-- **Saeed Al Owairan (85)** caiu **-13.1%** em 24h, a **58k coins** (faixa do dia: 20k–70k). Está +21% acima da média de 7 dias (aquecida).
+- **Cristiano Ronaldo (86)** caiu **-19%** em 24h, a **405k coins** (faixa do dia: 405k–500k). Está -16% abaixo da média de 7 dias (descontada).
 
-- **Iñigo Martínez (87)** caiu **-9.1%** em 24h, a **42k coins** (faixa do dia: 42k–54k). Está em linha com a média de 7 dias (-0%).
+- **Mohamed Simakan (86)** caiu **-14.8%** em 24h, a **36k coins** (faixa do dia: 36k–47k). Está -13% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** João Félix já avançou 49.1% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Salem Al Dawsari já avançou 38.3% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Malcom recuou -16.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Kingsley Coman recuou -22.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -104,13 +107,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (17/07/2026)?**
-João Félix (86, ROSHN Saudi League), com +49.1% em 24h, a 243k coins no PC.
+Salem Al Dawsari (91, ROSHN Saudi League), com +38.3% em 24h, a 55k coins no PC.
 
 **E a maior queda do dia?**
-Malcom (87), -16.3% em 24h, a 50k coins.
+Kingsley Coman (87), -22.7% em 24h, a 30k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 24 cartas em alta contra 13 em queda (média 14.48%).
+Hoje o mercado está em alta — predominam as valorizações, com 18 cartas em alta contra 15 em queda (média 12.54%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
