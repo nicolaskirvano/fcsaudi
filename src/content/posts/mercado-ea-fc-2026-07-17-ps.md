@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T16:38:07.000Z
+pubDatetime: 2026-07-17T17:23:11.000Z
 title: "Mercado EA FC em 17/07: Saudi Pro League — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 17/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (17/07/2026)?"
-    a: "Mohammed Noor (88, ROSHN Saudi League), com +26.1% em 24h, a 22k coins no Console (PS)."
+    a: "Salem Al Dawsari (91, ROSHN Saudi League), com +25.5% em 24h, a 59k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "N'Golo Kanté (89), -24.2% em 24h, a 116k coins."
+    a: "Firas Al Birekan (89), -24.4% em 24h, a 30k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 16 cartas em alta contra 16 em queda (média 2.02%)."
+    a: "Hoje o mercado está lateral — sem direção clara, com 13 cartas em alta contra 17 em queda (média -0.88%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **17/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **16 subiram** e **16 caíram**, com variação média de **2.02%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **17/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **13 subiram** e **17 caíram**, com variação média de **-0.88%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Mohammed Noor (88) **+26.1%** · 🔴 **Maior baixa:** N'Golo Kanté (89) **-24.2%**
+> 🟢 **Maior alta:** Salem Al Dawsari (91) **+25.5%** · 🔴 **Maior baixa:** Firas Al Birekan (89) **-24.4%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 17/07: Saudi Pro League — Console (PS)](/charts/mercado-ea-fc-2026-07-17-ps.svg)
 
@@ -35,61 +35,67 @@ Em **17/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 50.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 50.0% entre as cartas que se moveram; o universo observado reúne 33 cartas.
-- **Concentração:** ROSHN Saudi League aparece em 16 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 49.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 43.3% entre as cartas que se moveram; o universo observado reúne 32 cartas.
+- **Concentração:** ROSHN Saudi League aparece em 18 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mohammed Noor | 88 | ROSHN Saudi League | 22k coins | +26.1% | +79% |
-| Joshua King | 85 | ROSHN Saudi League | 22k coins | +21.1% | -5.5% |
-| Karim Benzema | 87 | ROSHN Saudi League | 85k coins | +16.4% | +18.9% |
-| Rúben Neves | 87 | ROSHN Saudi League | 42k coins | +7.7% | +17.5% |
-| Musab Al Juwair | 87 | ROSHN Saudi League | 26k coins | +5.4% | +40.6% |
-| Iñigo Martínez | 87 | ROSHN Saudi League | 36k coins | +4.9% | +6.4% |
+| Salem Al Dawsari | 91 | ROSHN Saudi League | 59k coins | +25.5% | +67.4% |
+| Malcom | 87 | ROSHN Saudi League | 52k coins | +22.9% | 0% |
+| Karim Benzema | 87 | ROSHN Saudi League | 85k coins | +14.9% | +18.9% |
+| Sadio Mané | 88 | ROSHN Saudi League | 166k coins | +9.7% | +89.9% |
+| Cristiano Ronaldo | 90 | ROSHN Saudi League | 8.70M coins | +8.8% | +7.4% |
+| Saeed Al Owairan | 86 | ROSHN Saudi League | 107k coins | +8.4% | +58.9% |
+| Moussa Diaby | 90 | ROSHN Saudi League | 59k coins | +8.3% | +37.6% |
+| João Félix | 87 | ROSHN Saudi League | 50k coins | +3.6% | +0.5% |
 
 
 ### Análise das altas
 
-- **Mohammed Noor (88)** subiu **+26.1%** em 24h, a **22k coins** (faixa do dia: 13.750–30k). Está +10% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Joshua King (85)** subiu **+21.1%** em 24h, a **22k coins** (faixa do dia: 13.750–24k). Está +8% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+<!-- projection-note:v1 -->
+> **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Karim Benzema (87)** subiu **+16.4%** em 24h, a **85k coins** (faixa do dia: 62k–85k). Está +17% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Salem Al Dawsari (91)** subiu **+25.5%** em 24h, a **59k coins** (faixa do dia: 34k–60k). Está +46% acima da média de 7 dias (aquecida).
+
+- **Malcom (87)** subiu **+22.9%** em 24h, a **52k coins** (faixa do dia: 44k–100k). Está em linha com a média de 7 dias (-2%).
+
+- **Karim Benzema (87)** subiu **+14.9%** em 24h, a **85k coins** (faixa do dia: 65k–85k). Está +17% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| N'Golo Kanté | 89 | ROSHN Saudi League | 116k coins | -24.2% | +57.2% |
-| Darwin Núñez | 90 | ROSHN Saudi League | 80k coins | -18.4% | -19.6% |
-| Cristiano Ronaldo | 88 | ROSHN Saudi League | 1.64M coins | -15.7% | +6.7% |
-| Cristiano Ronaldo | 92 | ROSHN Saudi League | 1.60M coins | -15.2% | -3% |
-| Chris Smalling | 87 | ROSHN Saudi League | 40k coins | -15% | +7.4% |
-| Enzo Millot | 89 | ROSHN Saudi League | 21k coins | -11.5% | +18.1% |
-| Mohamed Simakan | 86 | ROSHN Saudi League | 32k coins | -11% | -7.9% |
-| João Félix | 86 | ROSHN Saudi League | 170k coins | -5.9% | +0.6% |
-| João Félix | 93 | ROSHN Saudi League | 480k coins | -4.2% | +27.4% |
-| Cristiano Ronaldo | 89 | ROSHN Saudi League | 1.50M coins | -3.1% | +23% |
+| Firas Al Birekan | 89 | ROSHN Saudi League | 30k coins | -24.4% | -12.7% |
+| Saeed Al Owairan | 85 | ROSHN Saudi League | 42k coins | -22.6% | -12.7% |
+| N'Golo Kanté | 89 | ROSHN Saudi League | 116k coins | -20.9% | +57.2% |
+| Abdoulaye Doucouré | 87 | ROSHN Saudi League | 32k coins | -17.9% | -52.5% |
+| Mohamed Simakan | 86 | ROSHN Saudi League | 36k coins | -17.3% | -7.9% |
+| Theo Hernández | 88 | ROSHN Saudi League | 89k coins | -17.1% | +32.2% |
+| Cristiano Ronaldo | 88 | ROSHN Saudi League | 1.63M coins | -13.8% | +9.1% |
+| Enzo Millot | 89 | ROSHN Saudi League | 21k coins | -10.5% | +18.1% |
+| Cristiano Ronaldo | 89 | ROSHN Saudi League | 1.60M coins | -9.2% | +15.3% |
+| Julian Quiñones | 87 | ROSHN Saudi League | 48k coins | -5.8% | +14.6% |
 
 
 ### Análise das baixas
 
-- **N'Golo Kanté (89)** caiu **-24.2%** em 24h, a **116k coins** (faixa do dia: 110k–170k). Está -19% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Firas Al Birekan (89)** caiu **-24.4%** em 24h, a **30k coins** (faixa do dia: 30k–46k). Está -18% abaixo da média de 7 dias (descontada).
 
-- **Darwin Núñez (90)** caiu **-18.4%** em 24h, a **80k coins** (faixa do dia: 80k–131k). Está -16% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Saeed Al Owairan (85)** caiu **-22.6%** em 24h, a **42k coins** (faixa do dia: 32k–74k). Está -17% abaixo da média de 7 dias (descontada).
 
-- **Cristiano Ronaldo (88)** caiu **-15.7%** em 24h, a **1.64M coins** (faixa do dia: 1.60M–2M). Está em linha com a média de 7 dias (+2%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **N'Golo Kanté (89)** caiu **-20.9%** em 24h, a **116k coins** (faixa do dia: 110k–170k). Está -19% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Mohammed Noor já avançou 26.1% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Salem Al Dawsari já avançou 25.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** N'Golo Kanté recuou -24.2%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Firas Al Birekan recuou -24.4%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -100,20 +106,20 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (17/07/2026)?**  
-Mohammed Noor (88, ROSHN Saudi League), com +26.1% em 24h, a 22k coins no Console (PS).
+**Qual foi a maior alta do EA FC hoje (17/07/2026)?**
+Salem Al Dawsari (91, ROSHN Saudi League), com +25.5% em 24h, a 59k coins no Console (PS).
 
-**E a maior queda do dia?**  
-N'Golo Kanté (89), -24.2% em 24h, a 116k coins.
+**E a maior queda do dia?**
+Firas Al Birekan (89), -24.4% em 24h, a 30k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 16 cartas em alta contra 16 em queda (média 2.02%).
+**Como está o mercado do EA FC hoje?**
+Hoje o mercado está lateral — sem direção clara, com 13 cartas em alta contra 17 em queda (média -0.88%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
-> ⚡ Cansou de perder timing? O **NF Market** envia alertas automáticos de valorização e queda — <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">veja em nfmarket.com.br</a>.
+> **Link patrocinado:** ⚡ Cansou de perder timing? O **NF Market** envia alertas automáticos de valorização e queda — <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">veja em nfmarket.com.br</a>.
 
 ---
 
