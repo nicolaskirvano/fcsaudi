@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T00:00:44.000Z
+pubDatetime: 2026-07-17T00:12:30.000Z
 title: "Mercado EA FC em 16/07: Saudi Pro League — Console (PS)"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Cristiano Ronaldo (90), -34.4% em 24h, a 8M coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 14 cartas em alta contra 14 em queda (média -1.0%)."
+    a: "Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 13 cartas em alta contra 15 em queda (média -1.81%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Hoje (**16/07/2026**, Console (PS)) o Ultimate Team está em dia **indefinido** — sem tendência dominante — **14 subiram**, **14 caíram** (80+ e 5k+ coins), média de **-1.0%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Hoje (**16/07/2026**, Console (PS)) o Ultimate Team está em mercado **pressionado** — as quedas dominam o dia — **13 subiram**, **15 caíram** (80+ e 5k+ coins), média de **-1.81%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
 > 🟢 **Maior alta:** Cristiano Ronaldo (88) **+33.3%** · 🔴 **Maior baixa:** Cristiano Ronaldo (90) **-34.4%**
 
@@ -36,7 +36,7 @@ Hoje (**16/07/2026**, Console (PS)) o Ultimate Team está em dia **indefinido** 
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 67.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 50.0% entre as cartas que se moveram; o universo observado reúne 30 cartas.
+- **Participação das altas:** 46.4% entre as cartas que se moveram; o universo observado reúne 30 cartas.
 - **Concentração:** ROSHN Saudi League aparece em 19 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
@@ -44,22 +44,21 @@ Hoje (**16/07/2026**, Console (PS)) o Ultimate Team está em dia **indefinido** 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Cristiano Ronaldo | 88 | ROSHN Saudi League | 2M coins | +33.3% | +25.7% |
-| Theo Hernández | 88 | ROSHN Saudi League | 115k coins | +27.1% | +75.6% |
+| Theo Hernández | 88 | ROSHN Saudi League | 114k coins | +27.8% | +75.6% |
 | João Félix | 84 | ROSHN Saudi League | 176k coins | +22.4% | -17.4% |
-| João Cancelo | 87 | ROSHN Saudi League | 50k coins | +16.7% | +75% |
-| Abdoulaye Doucouré | 87 | ROSHN Saudi League | 32k coins | +15.8% | -44.5% |
+| Abdoulaye Doucouré | 87 | ROSHN Saudi League | 32k coins | +15.8% | -45.5% |
+| João Cancelo | 87 | ROSHN Saudi League | 50k coins | +10.5% | +75% |
 | Saeed Al Rubaie | 83 | ROSHN Saudi League | 35k coins | +9.4% | 0% |
 | Julian Quiñones | 87 | ROSHN Saudi League | 41k coins | +7.9% | -15% |
 | Musab Al Juwair | 87 | ROSHN Saudi League | 27k coins | +5.4% | +50% |
 | João Félix | 87 | ROSHN Saudi League | 50k coins | +5.1% | -1% |
-| Saeed Al Owairan | 91 | ROSHN Saudi League | 190k coins | +4.1% | +27.5% |
 
 
 ### Análise das altas
 
 - **Cristiano Ronaldo (88)** subiu **+33.3%** em 24h, a **2M coins** (faixa do dia: 1.44M–2.30M). Está +26% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Theo Hernández (88)** subiu **+27.1%** em 24h, a **115k coins** (faixa do dia: 85k–120k). Está +25% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Theo Hernández (88)** subiu **+27.8%** em 24h, a **114k coins** (faixa do dia: 85k–120k). Está +24% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 - **João Félix (84)** subiu **+22.4%** em 24h, a **176k coins** (faixa do dia: 144k–210k). Está -29% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
@@ -70,13 +69,14 @@ Hoje (**16/07/2026**, Console (PS)) o Ultimate Team está em dia **indefinido** 
 | --- | --- | --- | --- | --- | --- |
 | Cristiano Ronaldo | 90 | ROSHN Saudi League | 8M coins | -34.4% | -3.6% |
 | Rúben Neves | 87 | ROSHN Saudi League | 34k coins | -29.3% | -2.1% |
-| Sadio Mané | 88 | ROSHN Saudi League | 207k coins | -24.7% | +135.2% |
+| Sadio Mané | 88 | ROSHN Saudi League | 206k coins | -24.7% | +135.2% |
+| Karim Benzema | 87 | ROSHN Saudi League | 80k coins | -18.2% | +6.1% |
 | Cristiano Ronaldo | 89 | ROSHN Saudi League | 1.61M coins | -14.4% | -1% |
 | Iñigo Martínez | 87 | ROSHN Saudi League | 37k coins | -10.2% | +7.1% |
-| Ibañez | 86 | ROSHN Saudi League | 60k coins | -8.2% | +55.6% |
+| Ibañez | 86 | ROSHN Saudi League | 60k coins | -9% | +54.2% |
 | Riyad Mahrez | 87 | ROSHN Saudi League | 132k coins | -7.6% | +3.9% |
-| Karim Benzema | 87 | ROSHN Saudi League | 80k coins | -7.3% | +6.1% |
 | Carlos Júnior | 84 | ROSHN Saudi League | 41k coins | -4.9% | +12.1% |
+| Saeed Al Owairan | 91 | ROSHN Saudi League | 190k coins | -3.1% | +18.8% |
 
 
 ### Análise das baixas
@@ -85,7 +85,7 @@ Hoje (**16/07/2026**, Console (PS)) o Ultimate Team está em dia **indefinido** 
 
 - **Rúben Neves (87)** caiu **-29.3%** em 24h, a **34k coins** (faixa do dia: 34k–50k). Está -13% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Sadio Mané (88)** caiu **-24.7%** em 24h, a **207k coins** (faixa do dia: 152k–274k). Está +51% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Sadio Mané (88)** caiu **-24.7%** em 24h, a **206k coins** (faixa do dia: 152k–274k). Está +51% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
 ## Decisão prática para hoje
@@ -110,7 +110,7 @@ Cristiano Ronaldo (88, ROSHN Saudi League), com +33.3% em 24h, a 2M coins no Con
 Cristiano Ronaldo (90), -34.4% em 24h, a 8M coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 14 cartas em alta contra 14 em queda (média -1.0%).
+Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 13 cartas em alta contra 15 em queda (média -1.81%).
 
 **Posso confiar nos preços e previsões do FutQuant?**  
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
@@ -126,6 +126,5 @@ Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados co
 ## Continue a análise
 
 - [Jogadores baratos EA FC: Saudi Pro League em 16/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-16-ps/)
-- [Investimentos EA FC: Saudi Pro League em 16/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-16-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
