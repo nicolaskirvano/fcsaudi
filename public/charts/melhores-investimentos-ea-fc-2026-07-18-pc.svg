@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="405" viewBox="0 0 900 405" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="347" viewBox="0 0 900 347" role="img" aria-labelledby="title desc">
 <title id="title">Variação em 7 dias: Investimentos EA FC: Saudi Pro League em 18/07 — PC</title>
 <desc id="desc">Gráfico gerado a partir da tabela publicada neste artigo.</desc>
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
@@ -8,15 +8,12 @@
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
 <text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.9%</text>
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rúben Neves</text>
-<rect x="285" y="153" width="269" height="28" rx="7" fill="#22c55e"/>
-<text x="564" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+31.9%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Iñigo Martínez</text>
-<rect x="285" y="211" width="184" height="28" rx="7" fill="#22c55e"/>
-<text x="479" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+21.8%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Iñigo Martínez</text>
-<rect x="285" y="269" width="114" height="28" rx="7" fill="#22c55e"/>
-<text x="409" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+13.5%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sadio Mané</text>
-<rect x="285" y="327" width="83" height="28" rx="7" fill="#22c55e"/>
-<text x="378" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+9.8%</text>
+<rect x="285" y="153" width="236" height="28" rx="7" fill="#22c55e"/>
+<text x="531" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+28.0%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Theo Hernández</text>
+<rect x="285" y="211" width="148" height="28" rx="7" fill="#22c55e"/>
+<text x="443" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+17.6%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mohamed Simakan</text>
+<rect x="285" y="269" width="66" height="28" rx="7" fill="#22c55e"/>
+<text x="361" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+7.8%</text>
 </svg>
