@@ -6,17 +6,17 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ibañez</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+87.3%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Moussa Diaby</text>
-<rect x="285" y="153" width="273" height="28" rx="7" fill="#22c55e"/>
-<text x="568" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+49.7%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Karim Benzema</text>
-<rect x="285" y="211" width="102" height="28" rx="7" fill="#22c55e"/>
-<text x="397" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+18.5%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Riyad Mahrez</text>
-<rect x="285" y="269" width="70" height="28" rx="7" fill="#22c55e"/>
-<text x="365" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+12.8%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Karim Benzema</text>
-<rect x="285" y="327" width="35" height="28" rx="7" fill="#22c55e"/>
-<text x="330" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+6.4%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.3%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Karim Benzema</text>
+<rect x="285" y="153" width="344" height="28" rx="7" fill="#22c55e"/>
+<text x="639" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.0%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sergej Milinković-Savić</text>
+<rect x="285" y="211" width="251" height="28" rx="7" fill="#22c55e"/>
+<text x="546" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+26.3%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">João Félix</text>
+<rect x="285" y="269" width="171" height="28" rx="7" fill="#22c55e"/>
+<text x="466" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+17.9%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Joshua King</text>
+<rect x="285" y="327" width="58" height="28" rx="7" fill="#22c55e"/>
+<text x="353" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+6.1%</text>
 </svg>
