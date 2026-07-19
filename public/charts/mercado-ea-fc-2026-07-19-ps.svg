@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rúben Neves</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">João Cancelo</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+37.5%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">N&#x27;Golo Kanté</text>
-<rect x="285" y="153" width="334" height="28" rx="7" fill="#22c55e"/>
-<text x="629" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+26.1%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Musab Al Juwair</text>
-<rect x="285" y="211" width="320" height="28" rx="7" fill="#22c55e"/>
-<text x="615" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+25.0%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Kingsley Coman</text>
-<rect x="285" y="269" width="284" height="28" rx="7" fill="#22c55e"/>
-<text x="579" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+22.2%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">João Félix</text>
-<rect x="285" y="327" width="223" height="28" rx="7" fill="#22c55e"/>
-<text x="518" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+17.4%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Firas Al Birekan</text>
-<rect x="285" y="385" width="207" height="28" rx="7" fill="#22c55e"/>
-<text x="502" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+16.2%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+30.7%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Karim Benzema</text>
+<rect x="285" y="153" width="435" height="28" rx="7" fill="#22c55e"/>
+<text x="730" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+27.8%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Chris Smalling</text>
+<rect x="285" y="211" width="367" height="28" rx="7" fill="#22c55e"/>
+<text x="662" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.5%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Cristiano Ronaldo</text>
+<rect x="285" y="269" width="366" height="28" rx="7" fill="#22c55e"/>
+<text x="661" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.4%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Salem Al Dawsari</text>
+<rect x="285" y="327" width="189" height="28" rx="7" fill="#22c55e"/>
+<text x="484" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+12.1%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sadio Mané</text>
+<rect x="285" y="385" width="136" height="28" rx="7" fill="#22c55e"/>
+<text x="431" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+8.7%</text>
 </svg>

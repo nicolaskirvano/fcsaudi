@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T10:38:10.000Z
+pubDatetime: 2026-07-19T13:38:10.000Z
 title: "Jogadores baratos EA FC: Saudi Pro League em 19/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 19/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (19/07/2026)?"
-    a: "Sami Al Jaber (86, ROSHN Saudi League) aparece como melhor custo-benefício, a 13.000 coins no Console (PS)."
+    a: "Sami Al Jaber (86, ROSHN Saudi League) aparece como melhor custo-benefício, a 12.500 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **19/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Sami Al Jaber (86) por apenas 13.000 coins.
+> 💰 **Melhor pechincha:** Sami Al Jaber (86) por apenas 12.500 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Saudi Pro League em 19/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-19-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 4 opções:** 8.412 coins.
+- **Preço médio das 4 opções:** 8.962 coins.
 - **Posição mais frequente:** ST, com 2 cartas.
-- **Faixa real:** 2.500 a 13.000 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 5.600 a 12.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,28 +40,28 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Sami Al Jaber | 86 | ST | ROSHN Saudi League | 13.000 coins | +8.3% |
-| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 2.500 coins | -9.1% |
-| Karim Benzema | 85 | ST | ROSHN Saudi League | 5.400 coins | -1.8% |
-| Mohammed Noor | 85 | CAM | ROSHN Saudi League | 12.750 coins | +6.2% |
+| Sami Al Jaber | 86 | ST | ROSHN Saudi League | 12.500 coins | -3.7% |
+| Karim Benzema | 85 | ST | ROSHN Saudi League | 5.600 coins | +1.8% |
+| Mohammed Noor | 85 | CAM | ROSHN Saudi League | 11.750 coins | +4.2% |
+| Neymar Jr | 83 | CAM | ROSHN Saudi League | 6.000 coins | +10.6% |
 
 
 ## 📈 Destaques
 
-- **Sami Al Jaber (86, ST)** da ROSHN Saudi League, a apenas **13.000 coins**
+- **Sami Al Jaber (86, ST)** da ROSHN Saudi League, a apenas **12.500 coins**
 
-- **N'Golo Kanté (85, CDM)** da ROSHN Saudi League, a apenas **2.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Karim Benzema (85, ST)** da ROSHN Saudi League, a apenas **5.600 coins**
 
-- **Karim Benzema (85, ST)** da ROSHN Saudi League, a apenas **5.400 coins**
+- **Mohammed Noor (85, CAM)** da ROSHN Saudi League, a apenas **11.750 coins**
 
-- **Mohammed Noor (85, CAM)** da ROSHN Saudi League, a apenas **12.750 coins**
+- **Neymar Jr (83, CAM)** da ROSHN Saudi League, a apenas **6.000 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
 
-- **Meio:** N'Golo Kanté (85, CDM) por 2.500 coins é a referência de rating deste recorte.
+- **Meio:** Mohammed Noor (85, CAM) por 11.750 coins é a referência de rating deste recorte.
 
-- **Ataque:** Sami Al Jaber (86, ST) por 13.000 coins é a referência de rating deste recorte.
+- **Ataque:** Sami Al Jaber (86, ST) por 12.500 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -90,7 +90,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (19/07/2026)?**  
-Sami Al Jaber (86, ROSHN Saudi League) aparece como melhor custo-benefício, a 13.000 coins no Console (PS).
+Sami Al Jaber (86, ROSHN Saudi League) aparece como melhor custo-benefício, a 12.500 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
