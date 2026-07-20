@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T22:38:18.000Z
+pubDatetime: 2026-07-20T01:38:18.000Z
 title: "Investimentos EA FC: Saudi Pro League em 19/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 19/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/07/2026) no EA FC?"
-    a: "Moussa Diaby (90, ROSHN Saudi League) lidera, com +46.3% em 7 dias a 50k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Theo Hernández (88, ROSHN Saudi League) lidera, com +32.7% em 7 dias a 130k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **19/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Moussa Diaby (90) acumula **+46.3% em 7 dias** a 50k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Theo Hernández (88) acumula **+32.7% em 7 dias** a 130k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Saudi Pro League em 19/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-19-pc.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **19/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+5.4% em 24h** e **+24.5% em 7 dias**.
-- **2 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+5.4% em 24h** e **+8.3% em 7 dias**.
+- **1 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **ROSHN Saudi League** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,24 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Moussa Diaby | 90 | ROSHN Saudi League | 50k coins | +20% | +46.3% | Esticada |
-| Mohammed Noor | 85 | ROSHN Saudi League | 18.250 coins | +2.8% | +32.7% | Momentum moderado |
-| Theo Hernández | 88 | ROSHN Saudi League | 85k coins | +4.3% | +24.5% | Entrada a observar |
-| Iñigo Martínez | 87 | ROSHN Saudi League | 48k coins | +23.2% | +14.4% | Esticada |
+| Theo Hernández | 88 | ROSHN Saudi League | 130k coins | +18.2% | +32.7% | Momentum moderado |
+| Iñigo Martínez | 87 | ROSHN Saudi League | 47k coins | +29.3% | +14.8% | Esticada |
 | Rúben Neves | 87 | ROSHN Saudi League | 39k coins | +5.4% | +8.3% | Momentum moderado |
+| Joshua King | 85 | ROSHN Saudi League | 19.750 coins | +2.6% | +6.8% | Entrada a observar |
+| Saeed Al Owairan | 85 | ROSHN Saudi League | 65k coins | +1.6% | +5.7% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Moussa Diaby (90)** — 50k coins, **+46.3% em 7 dias** (+20% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Theo Hernández (88)** — 130k coins, **+32.7% em 7 dias** (+18.2% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mohammed Noor (85)** — 18.250 coins, **+32.7% em 7 dias** (+2.8% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Theo Hernández (88)** — 85k coins, **+24.5% em 7 dias** (+4.3% em 24h). Preço -30% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Iñigo Martínez (87)** — 48k coins, **+14.4% em 7 dias** (+23.2% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Iñigo Martínez (87)** — 47k coins, **+14.8% em 7 dias** (+29.3% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Rúben Neves (87)** — 39k coins, **+8.3% em 7 dias** (+5.4% em 24h). Preço -10% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Joshua King (85)** — 19.750 coins, **+6.8% em 7 dias** (+2.6% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Saeed Al Owairan (85)** — 65k coins, **+5.7% em 7 dias** (+1.6% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -87,7 +87,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/07/2026) no EA FC?**  
-Moussa Diaby (90, ROSHN Saudi League) lidera, com +46.3% em 7 dias a 50k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Theo Hernández (88, ROSHN Saudi League) lidera, com +32.7% em 7 dias a 130k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

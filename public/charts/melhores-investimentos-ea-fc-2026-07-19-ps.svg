@@ -4,16 +4,16 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Karim Benzema</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Saeed Al Owairan</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+38.8%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+84.8%</text>
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sadio Mané</text>
-<rect x="285" y="153" width="465" height="28" rx="7" fill="#22c55e"/>
-<text x="760" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+37.6%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mohammed Noor</text>
-<rect x="285" y="211" width="322" height="28" rx="7" fill="#22c55e"/>
-<text x="617" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+26.0%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Iñigo Martínez</text>
-<rect x="285" y="269" width="275" height="28" rx="7" fill="#22c55e"/>
-<text x="570" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+22.2%</text>
+<rect x="285" y="153" width="349" height="28" rx="7" fill="#22c55e"/>
+<text x="644" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+61.6%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sami Al Jaber</text>
+<rect x="285" y="211" width="156" height="28" rx="7" fill="#22c55e"/>
+<text x="451" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+27.5%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">N&#x27;Golo Kanté</text>
+<rect x="285" y="269" width="33" height="28" rx="7" fill="#22c55e"/>
+<text x="328" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+5.8%</text>
 </svg>
