@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T13:38:17.000Z
+pubDatetime: 2026-07-20T16:38:16.000Z
 title: "Mercado EA FC em 20/07: Saudi Pro League — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 20/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/07/2026)?"
-    a: "Sadio Mané (88, ROSHN Saudi League), com +49.6% em 24h, a 190k coins no PC."
+    a: "Sadio Mané (88, ROSHN Saudi League), com +49.6% em 24h, a 189k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Darwin Núñez (90), -23.6% em 24h, a 96k coins."
+    a: "João Cancelo (87), -23.6% em 24h, a 49k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 17 cartas em alta contra 18 em queda (média 0.23%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 16 cartas em alta contra 16 em queda (média 4.79%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Resumo de **20/07/2026** no PC: mercado **lateral** — sem direção clara. **17 valorizações** contra **18 quedas** entre as cartas relevantes, com média de **0.23%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **20/07/2026** no PC: mercado **em alta** — predominam as valorizações. **16 valorizações** contra **16 quedas** entre as cartas relevantes, com média de **4.79%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Sadio Mané (88) **+49.6%** · 🔴 **Maior baixa:** Darwin Núñez (90) **-23.6%**
+> 🟢 **Maior alta:** Sadio Mané (88) **+49.6%** · 🔴 **Maior baixa:** João Cancelo (87) **-23.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 20/07: Saudi Pro League — PC](/charts/mercado-ea-fc-2026-07-20-pc.svg)
 
@@ -36,23 +36,23 @@ Resumo de **20/07/2026** no PC: mercado **lateral** — sem direção clara. **1
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 73.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 48.6% entre as cartas que se moveram; o universo observado reúne 44 cartas.
-- **Concentração:** ROSHN Saudi League aparece em 20 dos 20 maiores movimentos listados.
+- **Participação das altas:** 50.0% entre as cartas que se moveram; o universo observado reúne 43 cartas.
+- **Concentração:** ROSHN Saudi League aparece em 19 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sadio Mané | 88 | ROSHN Saudi League | 190k coins | +49.6% | +16.6% |
-| Chris Smalling | 87 | ROSHN Saudi League | 68k coins | +41.7% | +30.8% |
-| Rúben Neves | 87 | ROSHN Saudi League | 26k coins | +38.7% | -11.9% |
-| Musab Al Juwair | 87 | ROSHN Saudi League | 24k coins | +29.3% | +11.5% |
-| Mohamed Simakan | 86 | ROSHN Saudi League | 38k coins | +25% | +18.1% |
-| Karim Benzema | 88 | ROSHN Saudi League | 158k coins | +17% | +70.8% |
-| Rúben Neves | 87 | ROSHN Saudi League | 47k coins | +11.3% | +29.9% |
-| João Félix | 86 | ROSHN Saudi League | 269k coins | +5.5% | +10.7% |
-| Saeed Al Owairan | 91 | ROSHN Saudi League | 203k coins | +5.2% | -6.8% |
-| Abdoulaye Doucouré | 87 | ROSHN Saudi League | 88k coins | +4.7% | +42.9% |
+| Sadio Mané | 88 | ROSHN Saudi League | 189k coins | +49.6% | +16.6% |
+| Rúben Neves | 87 | ROSHN Saudi League | 24k coins | +44.4% | +4% |
+| Karim Benzema | 88 | ROSHN Saudi League | 220k coins | +40.1% | +137.8% |
+| Chris Smalling | 87 | ROSHN Saudi League | 66k coins | +38.5% | +31.7% |
+| Musab Al Juwair | 87 | ROSHN Saudi League | 23k coins | +29.3% | +11.5% |
+| Abdoulaye Doucouré | 87 | ROSHN Saudi League | 84k coins | +11% | +43.3% |
+| Saeed Al Owairan | 91 | ROSHN Saudi League | 202k coins | +8.6% | -7.8% |
+| Julian Quiñones | 87 | ROSHN Saudi League | 46k coins | +7.5% | -17.3% |
+| Mohamed Simakan | 86 | ROSHN Saudi League | 38k coins | +7% | 0% |
+| João Félix | 87 | ROSHN Saudi League | 87k coins | +4.7% | +43.5% |
 
 
 ### Análise das altas
@@ -61,43 +61,42 @@ Resumo de **20/07/2026** no PC: mercado **lateral** — sem direção clara. **1
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Sadio Mané (88)** subiu **+49.6%** em 24h, a **190k coins** (faixa do dia: 70k–190k). Está em linha com a média de 7 dias (+8%).
+- **Sadio Mané (88)** subiu **+49.6%** em 24h, a **189k coins** (faixa do dia: 70k–190k). Está em linha com a média de 7 dias (+7%).
 
-- **Chris Smalling (87)** subiu **+41.7%** em 24h, a **68k coins** (faixa do dia: 48k–70k). Está +25% acima da média de 7 dias (aquecida).
+- **Rúben Neves (87)** subiu **+44.4%** em 24h, a **24k coins** (faixa do dia: 17.000–30k). Está em linha com a média de 7 dias (-6%).
 
-- **Rúben Neves (87)** subiu **+38.7%** em 24h, a **26k coins** (faixa do dia: 17.000–30k). Está em linha com a média de 7 dias (+1%).
+- **Karim Benzema (88)** subiu **+40.1%** em 24h, a **220k coins** (faixa do dia: 157k–220k). Está +70% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Darwin Núñez | 90 | ROSHN Saudi League | 96k coins | -23.6% | -14.7% |
-| Mohammed Noor | 88 | ROSHN Saudi League | 20k coins | -19.6% | -21.8% |
-| Julian Quiñones | 87 | ROSHN Saudi League | 44k coins | -17.3% | -28.8% |
-| Cristiano Ronaldo | 92 | ROSHN Saudi League | 3.60M coins | -14.6% | -1.5% |
-| João Cancelo | 87 | ROSHN Saudi League | 56k coins | -12.3% | -10.4% |
-| Cristiano Ronaldo | 89 | ROSHN Saudi League | 2.15M coins | -11% | +2.4% |
-| Saeed Al Owairan | 86 | ROSHN Saudi League | 136k coins | -10.3% | +5.7% |
-| Salem Al Dawsari | 91 | ROSHN Saudi League | 49k coins | -9.1% | +51.5% |
-| Carlos Júnior | 84 | ROSHN Saudi League | 52k coins | -8.8% | -8% |
-| Riyad Mahrez | 87 | ROSHN Saudi League | 125k coins | -8.1% | -21.9% |
+| João Cancelo | 87 | ROSHN Saudi League | 49k coins | -23.6% | -27% |
+| Cristiano Ronaldo | 92 | ROSHN Saudi League | 3.30M coins | -19% | -10% |
+| João Félix | 84 | ROSHN Saudi League | 300k coins | -18% | 0% |
+| Saeed Al Owairan | 86 | ROSHN Saudi League | 119k coins | -13.7% | -5.5% |
+| Ibañez | 86 | ROSHN Saudi League | 42k coins | -11.6% | -3.5% |
+| Carlos Júnior | 84 | ROSHN Saudi League | 50k coins | -11.4% | -5.6% |
+| Theo Hernández | 88 | ROSHN Saudi League | 117k coins | -10% | -5.6% |
+| Salem Al Dawsari | 91 | ROSHN Saudi League | 47k coins | -9.4% | +45.5% |
+| João Félix | 93 | ROSHN Saudi League | 757k coins | -5.1% | -0.9% |
 
 
 ### Análise das baixas
 
-- **Darwin Núñez (90)** caiu **-23.6%** em 24h, a **96k coins** (faixa do dia: 96k–140k). Está -9% abaixo da média de 7 dias (descontada).
+- **João Cancelo (87)** caiu **-23.6%** em 24h, a **49k coins** (faixa do dia: 44k–95k). Está -36% abaixo da média de 7 dias (descontada).
 
-- **Mohammed Noor (88)** caiu **-19.6%** em 24h, a **20k coins** (faixa do dia: 18.500–30k). Está -15% abaixo da média de 7 dias (descontada).
+- **Cristiano Ronaldo (92)** caiu **-19%** em 24h, a **3.30M coins** (faixa do dia: 3.18M–4M). Está -17% abaixo da média de 7 dias (descontada).
 
-- **Julian Quiñones (87)** caiu **-17.3%** em 24h, a **44k coins** (faixa do dia: 35k–46k). Está em linha com a média de 7 dias (-4%).
+- **João Félix (84)** caiu **-18%** em 24h, a **300k coins** (faixa do dia: 251k–475k). Está -40% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
 - **Evite perseguir topo:** Sadio Mané já avançou 49.6% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Darwin Núñez recuou -23.6%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** João Cancelo recuou -23.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +108,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/07/2026)?**
-Sadio Mané (88, ROSHN Saudi League), com +49.6% em 24h, a 190k coins no PC.
+Sadio Mané (88, ROSHN Saudi League), com +49.6% em 24h, a 189k coins no PC.
 
 **E a maior queda do dia?**
-Darwin Núñez (90), -23.6% em 24h, a 96k coins.
+João Cancelo (87), -23.6% em 24h, a 49k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 17 cartas em alta contra 18 em queda (média 0.23%).
+Hoje o mercado está em alta — predominam as valorizações, com 16 cartas em alta contra 16 em queda (média 4.79%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
@@ -130,7 +129,6 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Jogadores baratos EA FC: Saudi Pro League em 20/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-20-pc/)
 - [Investimentos EA FC: Saudi Pro League em 20/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-20-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
