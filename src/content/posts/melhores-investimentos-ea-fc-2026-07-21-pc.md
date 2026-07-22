@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T22:38:18.000Z
+pubDatetime: 2026-07-22T01:38:18.000Z
 title: "Investimentos EA FC: Saudi Pro League em 21/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 21/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (21/07/2026) no EA FC?"
-    a: "Saeed Al Owairan (85, ROSHN Saudi League) lidera, com +50% em 7 dias a 57k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Darwin Núñez (90, ROSHN Saudi League) lidera, com +83.3% em 7 dias a 165k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **21/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Saeed Al Owairan (85) acumula **+50% em 7 dias** a 57k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Darwin Núñez (90) acumula **+83.3% em 7 dias** a 165k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Saudi Pro League em 21/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-21-pc.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **21/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+18.1% em 24h** e **+25.7% em 7 dias**.
-- **2 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+14.0% em 24h** e **+40.2% em 7 dias**.
+- **1 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **ROSHN Saudi League** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,24 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Saeed Al Owairan | 85 | ROSHN Saudi League | 57k coins | +18.1% | +50% | Momentum moderado |
-| Joshua King | 85 | ROSHN Saudi League | 25k coins | +40% | +32.9% | Esticada |
-| Carlos Júnior | 84 | ROSHN Saudi League | 49k coins | +7.7% | +25.7% | Momentum moderado |
-| Chris Smalling | 87 | ROSHN Saudi League | 58k coins | +22.1% | +16% | Esticada |
-| Rúben Neves | 87 | ROSHN Saudi League | 27k coins | +6.1% | +9.5% | Momentum moderado |
+| Darwin Núñez | 90 | ROSHN Saudi League | 165k coins | +3.1% | +83.3% | Esticada |
+| Saeed Al Owairan | 85 | ROSHN Saudi League | 59k coins | +14% | +44.7% | Momentum moderado |
+| Carlos Júnior | 84 | ROSHN Saudi League | 58k coins | +18.6% | +40.2% | Momentum moderado |
+| Iñigo Martínez | 86 | ROSHN Saudi League | 48k coins | +12.4% | +35.7% | Momentum moderado |
+| Joshua King | 85 | ROSHN Saudi League | 22k coins | +19.7% | +15.2% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Saeed Al Owairan (85)** — 57k coins, **+50% em 7 dias** (+18.1% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Darwin Núñez (90)** — 165k coins, **+83.3% em 7 dias** (+3.1% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Joshua King (85)** — 25k coins, **+32.9% em 7 dias** (+40% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Saeed Al Owairan (85)** — 59k coins, **+44.7% em 7 dias** (+14% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Carlos Júnior (84)** — 49k coins, **+25.7% em 7 dias** (+7.7% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Carlos Júnior (84)** — 58k coins, **+40.2% em 7 dias** (+18.6% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Chris Smalling (87)** — 58k coins, **+16% em 7 dias** (+22.1% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Iñigo Martínez (86)** — 48k coins, **+35.7% em 7 dias** (+12.4% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rúben Neves (87)** — 27k coins, **+9.5% em 7 dias** (+6.1% em 24h). Preço em linha com a média de 7 dias (+0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Joshua King (85)** — 22k coins, **+15.2% em 7 dias** (+19.7% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -78,7 +78,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (21/07/2026) no EA FC?**  
-Saeed Al Owairan (85, ROSHN Saudi League) lidera, com +50% em 7 dias a 57k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Darwin Núñez (90, ROSHN Saudi League) lidera, com +83.3% em 7 dias a 165k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
