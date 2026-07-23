@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Theo Hernández</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Karim Benzema</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+60.0%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Riyad Mahrez</text>
-<rect x="285" y="153" width="470" height="28" rx="7" fill="#22c55e"/>
-<text x="765" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+58.8%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Malcom</text>
-<rect x="285" y="211" width="377" height="28" rx="7" fill="#22c55e"/>
-<text x="672" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+47.1%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Chris Smalling</text>
-<rect x="285" y="269" width="312" height="28" rx="7" fill="#22c55e"/>
-<text x="607" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+39.0%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Joshua King</text>
-<rect x="285" y="327" width="297" height="28" rx="7" fill="#22c55e"/>
-<text x="592" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+37.1%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Salem Al Dawsari</text>
-<rect x="285" y="385" width="227" height="28" rx="7" fill="#22c55e"/>
-<text x="522" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+28.4%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.4%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Chris Smalling</text>
+<rect x="285" y="153" width="315" height="28" rx="7" fill="#22c55e"/>
+<text x="610" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+39.0%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Joshua King</text>
+<rect x="285" y="211" width="233" height="28" rx="7" fill="#22c55e"/>
+<text x="528" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+28.8%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Salem Al Dawsari</text>
+<rect x="285" y="269" width="229" height="28" rx="7" fill="#22c55e"/>
+<text x="524" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+28.4%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Malcom</text>
+<rect x="285" y="327" width="202" height="28" rx="7" fill="#22c55e"/>
+<text x="497" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+25.0%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">João Félix</text>
+<rect x="285" y="385" width="160" height="28" rx="7" fill="#22c55e"/>
+<text x="455" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+19.8%</text>
 </svg>
