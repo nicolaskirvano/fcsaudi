@@ -6,14 +6,14 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sami Al Jaber</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#38bdf8"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">14.000</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">12.000</text>
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">N&#x27;Golo Kanté</text>
-<rect x="285" y="153" width="75" height="28" rx="7" fill="#38bdf8"/>
-<text x="370" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">2.200</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mohammed Noor</text>
-<rect x="285" y="211" width="411" height="28" rx="7" fill="#38bdf8"/>
-<text x="706" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">12.000</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">João Cancelo</text>
-<rect x="285" y="269" width="62" height="28" rx="7" fill="#38bdf8"/>
-<text x="357" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">1.800</text>
+<rect x="285" y="153" width="88" height="28" rx="7" fill="#38bdf8"/>
+<text x="383" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">2.200</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Karim Benzema</text>
+<rect x="285" y="211" width="260" height="28" rx="7" fill="#38bdf8"/>
+<text x="555" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">6.500</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mohammed Noor</text>
+<rect x="285" y="269" width="480" height="28" rx="7" fill="#38bdf8"/>
+<text x="775" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">12.000</text>
 </svg>
