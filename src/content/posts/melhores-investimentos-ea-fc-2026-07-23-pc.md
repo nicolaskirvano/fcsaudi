@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T22:38:18.000Z
+pubDatetime: 2026-07-24T01:38:18.000Z
 title: "Investimentos EA FC: Saudi Pro League em 23/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 23/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (23/07/2026) no EA FC?"
-    a: "Enzo Millot (89, ROSHN Saudi League) lidera, com +39.2% em 7 dias a 19.000 coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Mohammed Noor (88, ROSHN Saudi League) lidera, com +59.8% em 7 dias a 32k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **23/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Enzo Millot (89) acumula **+39.2% em 7 dias** a 19.000 coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Mohammed Noor (88) acumula **+59.8% em 7 dias** a 32k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Saudi Pro League em 23/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-23-pc.svg)
 
@@ -33,7 +33,7 @@ Esta lista de **23/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+8.0% em 24h** e **+11.5% em 7 dias**.
+- A mediana é de **+10.1% em 24h** e **+37.2% em 7 dias**.
 - **1 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **ROSHN Saudi League** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
@@ -43,24 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Enzo Millot | 89 | ROSHN Saudi League | 19.000 coins | +37.5% | +39.2% | Esticada |
-| Chris Smalling | 87 | ROSHN Saudi League | 52k coins | +18.1% | +15.2% | Momentum moderado |
-| Saeed Al Owairan | 85 | ROSHN Saudi League | 52k coins | +4.9% | +11.5% | Entrada a observar |
-| Karim Benzema | 88 | ROSHN Saudi League | 155k coins | +8% | +8% | Momentum moderado |
-| Sergej Milinković-Savić | 86 | ROSHN Saudi League | 48k coins | +5.6% | +6.1% | Momentum moderado |
+| Mohammed Noor | 88 | ROSHN Saudi League | 32k coins | +10.1% | +59.8% | Momentum moderado |
+| Moussa Diaby | 90 | ROSHN Saudi League | 75k coins | +13.6% | +37.6% | Momentum moderado |
+| Riyad Mahrez | 87 | ROSHN Saudi League | 200k coins | +5.3% | +37.2% | Momentum moderado |
+| Enzo Millot | 89 | ROSHN Saudi League | 26k coins | +36.8% | +31.6% | Esticada |
+| Chris Smalling | 87 | ROSHN Saudi League | 50k coins | +7.8% | +5.1% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Enzo Millot (89)** — 19.000 coins, **+39.2% em 7 dias** (+37.5% em 24h). Preço -21% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mohammed Noor (88)** — 32k coins, **+59.8% em 7 dias** (+10.1% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Chris Smalling (87)** — 52k coins, **+15.2% em 7 dias** (+18.1% em 24h). Preço em linha com a média de 7 dias (-7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Moussa Diaby (90)** — 75k coins, **+37.6% em 7 dias** (+13.6% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Saeed Al Owairan (85)** — 52k coins, **+11.5% em 7 dias** (+4.9% em 24h). Preço em linha com a média de 7 dias (-4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Riyad Mahrez (87)** — 200k coins, **+37.2% em 7 dias** (+5.3% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Karim Benzema (88)** — 155k coins, **+8% em 7 dias** (+8% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Enzo Millot (89)** — 26k coins, **+31.6% em 7 dias** (+36.8% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sergej Milinković-Savić (86)** — 48k coins, **+6.1% em 7 dias** (+5.6% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Chris Smalling (87)** — 50k coins, **+5.1% em 7 dias** (+7.8% em 24h). Preço -11% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -78,7 +78,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (23/07/2026) no EA FC?**  
-Enzo Millot (89, ROSHN Saudi League) lidera, com +39.2% em 7 dias a 19.000 coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Mohammed Noor (88, ROSHN Saudi League) lidera, com +59.8% em 7 dias a 32k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
