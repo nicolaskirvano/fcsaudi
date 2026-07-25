@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T10:38:18.000Z
+pubDatetime: 2026-07-25T13:38:18.000Z
 title: "Investimentos EA FC: Saudi Pro League em 25/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 25/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (25/07/2026) no EA FC?"
-    a: "Darwin Núñez (90, ROSHN Saudi League) lidera, com +42.3% em 7 dias a 190k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Rúben Neves (87, ROSHN Saudi League) lidera, com +15.9% em 7 dias a 48k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **25/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Darwin Núñez (90) acumula **+42.3% em 7 dias** a 190k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Rúben Neves (87) acumula **+15.9% em 7 dias** a 48k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Saudi Pro League em 25/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-25-pc.svg)
 
@@ -33,7 +33,7 @@ Esta lista de **25/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+22.6% em 24h** e **+24.6% em 7 dias**.
+- A mediana é de **+20.1% em 24h** e **+10.2% em 7 dias**.
 - **2 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **ROSHN Saudi League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
@@ -43,21 +43,21 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Darwin Núñez | 90 | ROSHN Saudi League | 190k coins | +15.6% | +42.3% | Momentum moderado |
-| Theo Hernández | 88 | ROSHN Saudi League | 144k coins | +2.1% | +29.7% | Momentum moderado |
-| Sadio Mané | 88 | ROSHN Saudi League | 204k coins | +33.5% | +19.5% | Esticada |
+| Rúben Neves | 87 | ROSHN Saudi League | 48k coins | +21.8% | +15.9% | Esticada |
 | Mohamed Simakan | 86 | ROSHN Saudi League | 42k coins | +29.7% | +14.5% | Esticada |
+| Enzo Millot | 89 | ROSHN Saudi League | 21k coins | +2.3% | +6% | Entrada a observar |
+| Sadio Mané | 88 | ROSHN Saudi League | 200k coins | +18.3% | +5.3% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Darwin Núñez (90)** — 190k coins, **+42.3% em 7 dias** (+15.6% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Theo Hernández (88)** — 144k coins, **+29.7% em 7 dias** (+2.1% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Sadio Mané (88)** — 204k coins, **+19.5% em 7 dias** (+33.5% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rúben Neves (87)** — 48k coins, **+15.9% em 7 dias** (+21.8% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Mohamed Simakan (86)** — 42k coins, **+14.5% em 7 dias** (+29.7% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Enzo Millot (89)** — 21k coins, **+6% em 7 dias** (+2.3% em 24h). Preço -10% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Sadio Mané (88)** — 200k coins, **+5.3% em 7 dias** (+18.3% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -75,7 +75,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (25/07/2026) no EA FC?**  
-Darwin Núñez (90, ROSHN Saudi League) lidera, com +42.3% em 7 dias a 190k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Rúben Neves (87, ROSHN Saudi League) lidera, com +15.9% em 7 dias a 48k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
