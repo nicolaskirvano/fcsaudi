@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T16:38:09.000Z
+pubDatetime: 2026-07-26T19:38:09.000Z
 title: "Investimentos EA FC: Saudi Pro League em 26/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 26/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (26/07/2026) no EA FC?"
-    a: "Julian Quiñones (87, ROSHN Saudi League) lidera, com +68.7% em 7 dias a 61k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Julian Quiñones (87, ROSHN Saudi League) lidera, com +35.4% em 7 dias a 50k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **26/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Julian Quiñones (87) acumula **+68.7% em 7 dias** a 61k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Julian Quiñones (87) acumula **+35.4% em 7 dias** a 50k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Saudi Pro League em 26/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-26-ps.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **26/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+16.5% em 24h** e **+8.9% em 7 dias**.
-- **2 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+10.4% em 24h** e **+21.6% em 7 dias**.
+- **0 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **ROSHN Saudi League** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,24 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Julian Quiñones | 87 | ROSHN Saudi League | 61k coins | +35.5% | +68.7% | Esticada |
-| Mohamed Simakan | 86 | ROSHN Saudi League | 50k coins | +6.9% | +23.2% | Momentum moderado |
-| Mohammed Noor | 85 | ROSHN Saudi League | 15.250 coins | +32.6% | +8.9% | Esticada |
-| Iñigo Martínez | 87 | ROSHN Saudi League | 38k coins | +2.6% | +7.4% | Entrada a observar |
-| Iñigo Martínez | 86 | ROSHN Saudi League | 48k coins | +16.5% | +6.1% | Momentum moderado |
+| Julian Quiñones | 87 | ROSHN Saudi League | 50k coins | +10.6% | +35.4% | Momentum moderado |
+| Mohamed Simakan | 86 | ROSHN Saudi League | 50k coins | +2.8% | +33.1% | Momentum moderado |
+| Iñigo Martínez | 87 | ROSHN Saudi League | 44k coins | +15.4% | +21.6% | Momentum moderado |
+| Iñigo Martínez | 86 | ROSHN Saudi League | 40k coins | +10.4% | +11.1% | Momentum moderado |
+| Rúben Neves | 87 | ROSHN Saudi League | 47k coins | +5.6% | +5.6% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Julian Quiñones (87)** — 61k coins, **+68.7% em 7 dias** (+35.5% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Julian Quiñones (87)** — 50k coins, **+35.4% em 7 dias** (+10.6% em 24h). Preço em linha com a média de 7 dias (-4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mohamed Simakan (86)** — 50k coins, **+23.2% em 7 dias** (+6.9% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mohamed Simakan (86)** — 50k coins, **+33.1% em 7 dias** (+2.8% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mohammed Noor (85)** — 15.250 coins, **+8.9% em 7 dias** (+32.6% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Iñigo Martínez (87)** — 44k coins, **+21.6% em 7 dias** (+15.4% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Iñigo Martínez (87)** — 38k coins, **+7.4% em 7 dias** (+2.6% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Iñigo Martínez (86)** — 40k coins, **+11.1% em 7 dias** (+10.4% em 24h). Preço -12% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Iñigo Martínez (86)** — 48k coins, **+6.1% em 7 dias** (+16.5% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rúben Neves (87)** — 47k coins, **+5.6% em 7 dias** (+5.6% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -78,7 +78,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (26/07/2026) no EA FC?**  
-Julian Quiñones (87, ROSHN Saudi League) lidera, com +68.7% em 7 dias a 61k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Julian Quiñones (87, ROSHN Saudi League) lidera, com +35.4% em 7 dias a 50k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -96,6 +96,7 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Jogadores baratos EA FC: Saudi Pro League em 26/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-26-ps/)
 - [Mercado EA FC em 26/07: Saudi Pro League — Console (PS)](/posts/mercado-ea-fc-2026-07-26-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
