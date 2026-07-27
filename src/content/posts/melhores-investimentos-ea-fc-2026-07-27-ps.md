@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T10:38:09.000Z
+pubDatetime: 2026-07-27T13:38:09.000Z
 title: "Investimentos EA FC: Saudi Pro League em 27/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 27/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (27/07/2026) no EA FC?"
-    a: "Riyad Mahrez (87, ROSHN Saudi League) lidera, com +84.5% em 7 dias a 107k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Riyad Mahrez (87, ROSHN Saudi League) lidera, com +67.2% em 7 dias a 94k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **27/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Riyad Mahrez (87) acumula **+84.5% em 7 dias** a 107k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Riyad Mahrez (87) acumula **+67.2% em 7 dias** a 94k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Saudi Pro League em 27/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-27-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **27/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+24.4% em 24h** e **+33.3% em 7 dias**.
-- **5 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **ROSHN Saudi League** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+16.7% em 24h** e **+22.7% em 7 dias**.
+- **2 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **ROSHN Saudi League** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,26 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Riyad Mahrez | 87 | ROSHN Saudi League | 107k coins | +24.4% | +84.5% | Esticada |
-| Malcom | 87 | ROSHN Saudi League | 70k coins | +27.1% | +47.8% | Esticada |
-| Carlos Júnior | 84 | ROSHN Saudi League | 45k coins | +6.9% | +35.8% | Momentum moderado |
-| Iñigo Martínez | 87 | ROSHN Saudi League | 50k coins | +5.8% | +33.3% | Momentum moderado |
-| Mohamed Simakan | 86 | ROSHN Saudi League | 50k coins | +26.2% | +26.2% | Esticada |
-| Iñigo Martínez | 86 | ROSHN Saudi League | 47k coins | +22% | +22.7% | Esticada |
-| Salem Al Dawsari | 91 | ROSHN Saudi League | 50k coins | +27.4% | +11.1% | Esticada |
+| Riyad Mahrez | 87 | ROSHN Saudi League | 94k coins | +32% | +67.2% | Esticada |
+| Carlos Júnior | 84 | ROSHN Saudi League | 65k coins | +28.7% | +63.5% | Esticada |
+| Iñigo Martínez | 86 | ROSHN Saudi League | 55k coins | +4.2% | +22.7% | Entrada a observar |
+| Mohamed Simakan | 86 | ROSHN Saudi League | 46k coins | +16.5% | +16.5% | Momentum moderado |
+| Karim Benzema | 87 | ROSHN Saudi League | 44k coins | +16.7% | +6.9% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Riyad Mahrez (87)** — 107k coins, **+84.5% em 7 dias** (+24.4% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Riyad Mahrez (87)** — 94k coins, **+67.2% em 7 dias** (+32% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Malcom (87)** — 70k coins, **+47.8% em 7 dias** (+27.1% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Carlos Júnior (84)** — 65k coins, **+63.5% em 7 dias** (+28.7% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Carlos Júnior (84)** — 45k coins, **+35.8% em 7 dias** (+6.9% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Iñigo Martínez (86)** — 55k coins, **+22.7% em 7 dias** (+4.2% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Iñigo Martínez (87)** — 50k coins, **+33.3% em 7 dias** (+5.8% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mohamed Simakan (86)** — 46k coins, **+16.5% em 7 dias** (+16.5% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mohamed Simakan (86)** — 50k coins, **+26.2% em 7 dias** (+26.2% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Karim Benzema (87)** — 44k coins, **+6.9% em 7 dias** (+16.7% em 24h). Preço -33% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -80,7 +78,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (27/07/2026) no EA FC?**  
-Riyad Mahrez (87, ROSHN Saudi League) lidera, com +84.5% em 7 dias a 107k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Riyad Mahrez (87, ROSHN Saudi League) lidera, com +67.2% em 7 dias a 94k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -98,6 +96,7 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Jogadores baratos EA FC: Saudi Pro League em 27/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-27-ps/)
 - [Mercado EA FC em 27/07: Saudi Pro League — Console (PS)](/posts/mercado-ea-fc-2026-07-27-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
