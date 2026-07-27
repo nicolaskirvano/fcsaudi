@@ -1,38 +1,38 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T19:38:11.000Z
-title: "Jogadores baratos EA FC: Saudi Pro League em 27/07 — Console (PS)"
+pubDatetime: 2026-07-27T19:38:21.000Z
+title: "Jogadores baratos EA FC: Saudi Pro League em 27/07 — PC"
 draft: false
 featured: false
 tags:
   - baratos
   - custo-beneficio
   - budget
-  - ps
-description: "Cartas 83+ abaixo de 15 mil coins em 27/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
+  - pc
+description: "Cartas 83+ abaixo de 15 mil coins em 27/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (27/07/2026)?"
-    a: "Enzo Millot (89, ROSHN Saudi League) aparece como melhor custo-benefício, a 12.750 coins no Console (PS)."
+    a: "Enzo Millot (89, ROSHN Saudi League) aparece como melhor custo-benefício, a 11.250 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
     a: "Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias."
 ---
 
-Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **27/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
+Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **27/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Enzo Millot (89) por apenas 12.750 coins.
+> 💰 **Melhor pechincha:** Enzo Millot (89) por apenas 11.250 coins.
 
-![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Saudi Pro League em 27/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-27-ps.svg)
+![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Saudi Pro League em 27/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-27-pc.svg)
 
 *Visualização gerada com os mesmos valores da tabela deste artigo.*
 
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 5 opções:** 8.300 coins.
+- **Preço médio das 5 opções:** 10.240 coins.
 - **Posição mais frequente:** CAM, com 2 cartas.
-- **Faixa real:** 1.500 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 2.900 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,31 +40,31 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Enzo Millot | 89 | CAM | ROSHN Saudi League | 12.750 coins | +50.9% |
-| Rúben Neves | 87 | CDM | ROSHN Saudi League | 11.000 coins | -3.8% |
-| Mohammed Noor | 85 | CAM | ROSHN Saudi League | 14.750 coins | -3.4% |
-| Riyad Mahrez | 84 | RM | ROSHN Saudi League | 1.500 coins | +16.7% |
-| João Cancelo | 84 | RB | ROSHN Saudi League | 1.500 coins | +5.9% |
+| Enzo Millot | 89 | CAM | ROSHN Saudi League | 11.250 coins | 0% |
+| Cristiano Ronaldo | 85 | ST | ROSHN Saudi League | 2.900 coins | 0% |
+| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 9.300 coins | +6.9% |
+| Karim Benzema | 85 | ST | ROSHN Saudi League | 13.000 coins | 0% |
+| Mohammed Noor | 85 | CAM | ROSHN Saudi League | 14.750 coins | 0% |
 
 
 ## 📈 Destaques
 
-- **Enzo Millot (89, CAM)** da ROSHN Saudi League, a apenas **12.750 coins** A alta de 24h pede uma nova checagem antes da compra.
+- **Enzo Millot (89, CAM)** da ROSHN Saudi League, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Rúben Neves (87, CDM)** da ROSHN Saudi League, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Cristiano Ronaldo (85, ST)** da ROSHN Saudi League, a apenas **2.900 coins** — já **valorizando**, sinal de procura crescente.
+
+- **N'Golo Kanté (85, CDM)** da ROSHN Saudi League, a apenas **9.300 coins** — já **valorizando**, sinal de procura crescente.
+
+- **Karim Benzema (85, ST)** da ROSHN Saudi League, a apenas **13.000 coins**
 
 - **Mohammed Noor (85, CAM)** da ROSHN Saudi League, a apenas **14.750 coins**
-
-- **Riyad Mahrez (84, RM)** da ROSHN Saudi League, a apenas **1.500 coins** — já **valorizando**, sinal de procura crescente.
-
-- **João Cancelo (84, RB)** da ROSHN Saudi League, a apenas **1.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** João Cancelo (84, RB) por 1.500 coins é a referência de rating deste recorte.
+- **Meio:** Enzo Millot (89, CAM) por 11.250 coins é a referência de rating deste recorte.
 
-- **Meio:** Enzo Millot (89, CAM) por 12.750 coins é a referência de rating deste recorte.
+- **Ataque:** Cristiano Ronaldo (85, ST) por 2.900 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -83,7 +83,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (27/07/2026)?**  
-Enzo Millot (89, ROSHN Saudi League) aparece como melhor custo-benefício, a 12.750 coins no Console (PS).
+Enzo Millot (89, ROSHN Saudi League) aparece como melhor custo-benefício, a 11.250 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
@@ -96,11 +96,11 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 
 ---
 
-*Preços de Console (PS), referência de 27/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+*Preços de PC, referência de 27/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
 
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Mercado EA FC em 27/07: Saudi Pro League — Console (PS)](/posts/mercado-ea-fc-2026-07-27-ps/)
+- [Mercado EA FC em 27/07: Saudi Pro League — PC](/posts/mercado-ea-fc-2026-07-27-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
