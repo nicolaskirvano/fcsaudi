@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-28T13:38:10.000Z
+pubDatetime: 2026-07-28T16:38:09.000Z
 title: "Investimentos EA FC: Saudi Pro League em 28/07 — Console (PS)"
 draft: false
 featured: true
