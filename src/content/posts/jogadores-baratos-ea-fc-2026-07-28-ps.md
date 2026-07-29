@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-28T22:38:11.000Z
+pubDatetime: 2026-07-29T01:38:11.000Z
 title: "Jogadores baratos EA FC: Saudi Pro League em 28/07 — Console (PS)"
 draft: false
 featured: false
