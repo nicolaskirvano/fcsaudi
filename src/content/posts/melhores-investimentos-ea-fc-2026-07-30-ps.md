@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T10:38:10.000Z
+pubDatetime: 2026-07-30T13:38:12.000Z
 title: "Investimentos EA FC: Saudi Pro League em 30/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 30/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (30/07/2026) no EA FC?"
-    a: "Karim Benzema (88, ROSHN Saudi League) lidera, com +48.3% em 7 dias a 145k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Rúben Neves (87, ROSHN Saudi League) lidera, com +47.5% em 7 dias a 20k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **30/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Karim Benzema (88) acumula **+48.3% em 7 dias** a 145k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Rúben Neves (87) acumula **+47.5% em 7 dias** a 20k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Saudi Pro League em 30/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-30-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **30/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.7% em 24h** e **+28.2% em 7 dias**.
-- **1 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **ROSHN Saudi League** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+17.1% em 24h** e **+34.6% em 7 dias**.
+- **2 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **ROSHN Saudi League** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,24 +43,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Karim Benzema | 88 | ROSHN Saudi League | 145k coins | +25.7% | +48.3% | Esticada |
-| Iñigo Martínez | 86 | ROSHN Saudi League | 60k coins | +9.1% | +42% | Momentum moderado |
-| Rúben Neves | 87 | ROSHN Saudi League | 50k coins | +17.6% | +28.2% | Momentum moderado |
-| Carlos Júnior | 84 | ROSHN Saudi League | 64k coins | +12.7% | +27.2% | Momentum moderado |
-| Iñigo Martínez | 87 | ROSHN Saudi League | 44k coins | +4% | +20.3% | Entrada a observar |
+| Rúben Neves | 87 | ROSHN Saudi League | 20k coins | +2.3% | +47.5% | Momentum moderado |
+| Karim Benzema | 88 | ROSHN Saudi League | 145k coins | +28.6% | +41.6% | Esticada |
+| Mohamed Simakan | 86 | ROSHN Saudi League | 49k coins | +14.6% | +40% | Momentum moderado |
+| Carlos Júnior | 84 | ROSHN Saudi League | 62k coins | +24% | +29.2% | Esticada |
+| Rúben Neves | 87 | ROSHN Saudi League | 55k coins | +19.6% | +26.4% | Momentum moderado |
+| Karim Benzema | 87 | ROSHN Saudi League | 72k coins | +7.1% | +25% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Karim Benzema (88)** — 145k coins, **+48.3% em 7 dias** (+25.7% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rúben Neves (87)** — 20k coins, **+47.5% em 7 dias** (+2.3% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Iñigo Martínez (86)** — 60k coins, **+42% em 7 dias** (+9.1% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Karim Benzema (88)** — 145k coins, **+41.6% em 7 dias** (+28.6% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rúben Neves (87)** — 50k coins, **+28.2% em 7 dias** (+17.6% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mohamed Simakan (86)** — 49k coins, **+40% em 7 dias** (+14.6% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Carlos Júnior (84)** — 64k coins, **+27.2% em 7 dias** (+12.7% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Carlos Júnior (84)** — 62k coins, **+29.2% em 7 dias** (+24% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Iñigo Martínez (87)** — 44k coins, **+20.3% em 7 dias** (+4% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rúben Neves (87)** — 55k coins, **+26.4% em 7 dias** (+19.6% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -78,7 +79,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (30/07/2026) no EA FC?**  
-Karim Benzema (88, ROSHN Saudi League) lidera, com +48.3% em 7 dias a 145k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Rúben Neves (87, ROSHN Saudi League) lidera, com +47.5% em 7 dias a 20k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -96,6 +97,7 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Jogadores baratos EA FC: Saudi Pro League em 30/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-30-ps/)
 - [Mercado EA FC em 30/07: Saudi Pro League — Console (PS)](/posts/mercado-ea-fc-2026-07-30-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
