@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T10:38:11.000Z
+pubDatetime: 2026-07-31T13:38:12.000Z
 title: "Jogadores baratos EA FC: Saudi Pro League em 31/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 31/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (31/07/2026)?"
-    a: "Sami Al Jaber (86, ROSHN Saudi League) aparece como melhor custo-benefício, a 14.000 coins no Console (PS)."
+    a: "Cristiano Ronaldo (88, ROSHN Saudi League) aparece como melhor custo-benefício, a 11.000 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **31/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Sami Al Jaber (86) por apenas 14.000 coins.
+> 💰 **Melhor pechincha:** Cristiano Ronaldo (88) por apenas 11.000 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Saudi Pro League em 31/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-31-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 5 opções:** 8.850 coins.
-- **Posição mais frequente:** ST, com 3 cartas.
-- **Faixa real:** 1.900 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 6 opções:** 7.817 coins.
+- **Posição mais frequente:** ST, com 4 cartas.
+- **Faixa real:** 1.800 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,31 +40,32 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
+| Cristiano Ronaldo | 88 | ST | ROSHN Saudi League | 11.000 coins | -8.3% |
 | Sami Al Jaber | 86 | ST | ROSHN Saudi League | 14.000 coins | 0% |
-| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 1.900 coins | +5.6% |
-| Cristiano Ronaldo | 85 | ST | ROSHN Saudi League | 3.600 coins | +2.6% |
-| Mohammed Noor | 85 | CAM | ROSHN Saudi League | 12.250 coins | -10.9% |
-| Joshua King | 85 | ST | ROSHN Saudi League | 12.500 coins | +2% |
+| Karim Benzema | 85 | ST | ROSHN Saudi League | 6.800 coins | +13.3% |
+| Joshua King | 85 | ST | ROSHN Saudi League | 11.500 coins | -4.2% |
+| Riyad Mahrez | 84 | RM | ROSHN Saudi League | 1.800 coins | -11.8% |
+| Sergej Milinković-Savić | 84 | CM | ROSHN Saudi League | 1.800 coins | +7.1% |
 
 
 ## 📈 Destaques
 
+- **Cristiano Ronaldo (88, ST)** da ROSHN Saudi League, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Sami Al Jaber (86, ST)** da ROSHN Saudi League, a apenas **14.000 coins**
 
-- **N'Golo Kanté (85, CDM)** da ROSHN Saudi League, a apenas **1.900 coins**
+- **Karim Benzema (85, ST)** da ROSHN Saudi League, a apenas **6.800 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Cristiano Ronaldo (85, ST)** da ROSHN Saudi League, a apenas **3.600 coins** — já **valorizando**, sinal de procura crescente.
+- **Joshua King (85, ST)** da ROSHN Saudi League, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mohammed Noor (85, CAM)** da ROSHN Saudi League, a apenas **12.250 coins**
-
-- **Joshua King (85, ST)** da ROSHN Saudi League, a apenas **12.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Riyad Mahrez (84, RM)** da ROSHN Saudi League, a apenas **1.800 coins**
 
 
 ## Como distribuir a banca
 
-- **Meio:** N'Golo Kanté (85, CDM) por 1.900 coins é a referência de rating deste recorte.
+- **Meio:** Riyad Mahrez (84, RM) por 1.800 coins é a referência de rating deste recorte.
 
-- **Ataque:** Sami Al Jaber (86, ST) por 14.000 coins é a referência de rating deste recorte.
+- **Ataque:** Cristiano Ronaldo (88, ST) por 11.000 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -83,7 +84,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (31/07/2026)?**  
-Sami Al Jaber (86, ROSHN Saudi League) aparece como melhor custo-benefício, a 14.000 coins no Console (PS).
+Cristiano Ronaldo (88, ROSHN Saudi League) aparece como melhor custo-benefício, a 11.000 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
