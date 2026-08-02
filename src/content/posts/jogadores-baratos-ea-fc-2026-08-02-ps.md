@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:30:39.000Z
+pubDatetime: 2026-08-02T10:38:12.000Z
 title: "Jogadores baratos EA FC: Saudi Pro League em 02/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 9 opções:** 8.444 coins.
-- **Posição mais frequente:** ST, com 4 cartas.
-- **Faixa real:** 1.600 a 13.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 8 opções:** 7.800 coins.
+- **Posição mais frequente:** ST, com 3 cartas.
+- **Faixa real:** 1.500 a 13.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -43,11 +43,10 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Enzo Millot | 89 | CAM | ROSHN Saudi League | 11.750 coins | +9.7% |
 | Cristiano Ronaldo | 88 | ST | ROSHN Saudi League | 11.000 coins | 0% |
 | Riyad Mahrez | 87 | RM | ROSHN Saudi League | 13.250 coins | 0% |
-| Sami Al Jaber | 86 | ST | ROSHN Saudi League | 13.500 coins | -1.8% |
 | Cristiano Ronaldo | 85 | ST | ROSHN Saudi League | 4.000 coins | +11.1% |
 | Karim Benzema | 85 | ST | ROSHN Saudi League | 7.000 coins | +36.7% |
 | Mohammed Noor | 85 | CAM | ROSHN Saudi League | 12.000 coins | -1.9% |
-| Moussa Diaby | 84 | RM | ROSHN Saudi League | 1.600 coins | +15.4% |
+| Moussa Diaby | 84 | RM | ROSHN Saudi League | 1.500 coins | +15.4% |
 | Sadio Mané | 83 | LM | ROSHN Saudi League | 1.900 coins | +13.3% |
 
 
@@ -59,9 +58,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Riyad Mahrez (87, RM)** da ROSHN Saudi League, a apenas **13.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Sami Al Jaber (86, ST)** da ROSHN Saudi League, a apenas **13.500 coins**
-
 - **Cristiano Ronaldo (85, ST)** da ROSHN Saudi League, a apenas **4.000 coins** — já **valorizando**, sinal de procura crescente.
+
+- **Karim Benzema (85, ST)** da ROSHN Saudi League, a apenas **7.000 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
 
 ## Como distribuir a banca

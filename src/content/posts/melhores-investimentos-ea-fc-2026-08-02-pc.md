@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:30:47.000Z
+pubDatetime: 2026-08-02T10:38:20.000Z
 title: "Investimentos EA FC: Saudi Pro League em 02/08 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+9.8% em 24h** e **+27.8% em 7 dias**.
-- **3 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **ROSHN Saudi League** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+11.0% em 24h** e **+25.0% em 7 dias**.
+- **3 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **ROSHN Saudi League** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,22 +44,23 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Chris Smalling | 87 | ROSHN Saudi League | 70k coins | +8.5% | +81.8% | Esticada |
-| Musab Al Juwair | 87 | ROSHN Saudi League | 36k coins | +1.4% | +39.8% | Momentum moderado |
+| Musab Al Juwair | 87 | ROSHN Saudi League | 36k coins | +1.4% | +34.6% | Momentum moderado |
 | Enzo Millot | 89 | ROSHN Saudi League | 20k coins | +11% | +30.6% | Momentum moderado |
-| Iñigo Martínez | 87 | ROSHN Saudi League | 55k coins | +2.8% | +25% | Entrada a observar |
+| Iñigo Martínez | 87 | ROSHN Saudi League | 50k coins | +2.8% | +25% | Entrada a observar |
 | Karim Benzema | 88 | ROSHN Saudi League | 220k coins | +34.1% | +14.6% | Esticada |
 | Saeed Al Owairan | 91 | ROSHN Saudi League | 215k coins | +22.9% | +12% | Esticada |
+| Rúben Neves | 87 | ROSHN Saudi League | 50k coins | +11.1% | +11.1% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
 - **Chris Smalling (87)** — 70k coins, **+81.8% em 7 dias** (+8.5% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Musab Al Juwair (87)** — 36k coins, **+39.8% em 7 dias** (+1.4% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Musab Al Juwair (87)** — 36k coins, **+34.6% em 7 dias** (+1.4% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Enzo Millot (89)** — 20k coins, **+30.6% em 7 dias** (+11% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Iñigo Martínez (87)** — 55k coins, **+25% em 7 dias** (+2.8% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Iñigo Martínez (87)** — 50k coins, **+25% em 7 dias** (+2.8% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Karim Benzema (88)** — 220k coins, **+14.6% em 7 dias** (+34.1% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:30:36.000Z
+pubDatetime: 2026-08-02T10:38:08.000Z
 title: "Mercado EA FC em 02/08: Saudi Pro League — Console (PS)"
 draft: false
 featured: true
@@ -37,7 +37,7 @@ Panorama de **02/08/2026** (Console (PS)): clima **comprador** — a maioria das
 
 - **Amplitude do dia:** 65.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
 - **Participação das altas:** 69.0% entre as cartas que se moveram; o universo observado reúne 35 cartas.
-- **Concentração:** ROSHN Saudi League aparece em 13 dos 20 maiores movimentos listados.
+- **Concentração:** ROSHN Saudi League aparece em 12 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
@@ -46,8 +46,8 @@ Panorama de **02/08/2026** (Console (PS)): clima **comprador** — a maioria das
 | João Félix | 86 | ROSHN Saudi League | 178k coins | +47% | +78% |
 | João Félix | 93 | ROSHN Saudi League | 600k coins | +32.4% | +76.1% |
 | Rúben Neves | 87 | ROSHN Saudi League | 20k coins | +25% | +42.9% |
-| Musab Al Juwair | 87 | ROSHN Saudi League | 32k coins | +21.4% | +126.7% |
-| N'Golo Kanté | 89 | ROSHN Saudi League | 70k coins | +20.8% | +25% |
+| Musab Al Juwair | 87 | ROSHN Saudi League | 28k coins | +21.4% | +126.7% |
+| N'Golo Kanté | 89 | ROSHN Saudi League | 81k coins | +20.8% | +25% |
 | Malcom | 87 | ROSHN Saudi League | 94k coins | +20% | +30.9% |
 | Saeed Al Owairan | 91 | ROSHN Saudi League | 100k coins | +19.3% | +79.7% |
 | Firas Al Birekan | 89 | ROSHN Saudi League | 46k coins | +15% | +109.1% |
@@ -74,7 +74,6 @@ Panorama de **02/08/2026** (Console (PS)): clima **comprador** — a maioria das
 | --- | --- | --- | --- | --- | --- |
 | Iñigo Martínez | 87 | ROSHN Saudi League | 40k coins | -18.4% | -10.6% |
 | Julian Quiñones | 87 | ROSHN Saudi League | 57k coins | -10.9% | +15.6% |
-| João Félix | 87 | ROSHN Saudi League | 44k coins | -6.2% | -4.8% |
 
 
 ### Análise das baixas
@@ -82,8 +81,6 @@ Panorama de **02/08/2026** (Console (PS)): clima **comprador** — a maioria das
 - **Iñigo Martínez (87)** caiu **-18.4%** em 24h, a **40k coins** (faixa do dia: 40k–70k). Está -14% abaixo da média de 7 dias (descontada).
 
 - **Julian Quiñones (87)** caiu **-10.9%** em 24h, a **57k coins** (faixa do dia: 46k–68k). Está -12% abaixo da média de 7 dias (descontada).
-
-- **João Félix (87)** caiu **-6.2%** em 24h, a **44k coins** (faixa do dia: 44k–65k). Está -13% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje

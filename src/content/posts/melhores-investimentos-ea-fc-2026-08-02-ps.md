@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:30:38.000Z
+pubDatetime: 2026-08-02T10:38:10.000Z
 title: "Investimentos EA FC: Saudi Pro League em 02/08 — Console (PS)"
 draft: false
 featured: true
@@ -48,7 +48,7 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Rúben Neves | 87 | ROSHN Saudi League | 20k coins | +25% | +42.9% | Esticada |
 | Chris Smalling | 87 | ROSHN Saudi League | 50k coins | +11.1% | +40.8% | Momentum moderado |
 | Malcom | 87 | ROSHN Saudi League | 94k coins | +20% | +30.9% | Esticada |
-| N'Golo Kanté | 89 | ROSHN Saudi League | 70k coins | +20.8% | +25% | Esticada |
+| N'Golo Kanté | 89 | ROSHN Saudi League | 81k coins | +20.8% | +25% | Esticada |
 | João Félix | 84 | ROSHN Saudi League | 187k coins | +4.5% | +18.4% | Entrada a observar |
 | Rúben Neves | 87 | ROSHN Saudi League | 50k coins | +9.9% | +6.4% | Momentum moderado |
 
