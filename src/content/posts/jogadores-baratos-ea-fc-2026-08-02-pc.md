@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:38:22.000Z
+pubDatetime: 2026-08-02T13:38:22.000Z
 title: "Jogadores baratos EA FC: Saudi Pro League em 02/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 7 opções:** 8.679 coins.
-- **Posição mais frequente:** ST, com 3 cartas.
-- **Faixa real:** 1.900 a 12.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 5 opções:** 10.250 coins.
+- **Posição mais frequente:** ST, com 2 cartas.
+- **Faixa real:** 4.000 a 12.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -43,10 +43,8 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Cristiano Ronaldo | 88 | ST | ROSHN Saudi League | 11.000 coins | 0% |
 | Sadio Mané | 88 | LM | ROSHN Saudi League | 12.500 coins | 0% |
 | Riyad Mahrez | 87 | RM | ROSHN Saudi League | 11.000 coins | 0% |
-| Cristiano Ronaldo | 85 | ST | ROSHN Saudi League | 4.400 coins | -6.4% |
-| Karim Benzema | 85 | ST | ROSHN Saudi League | 7.200 coins | -10% |
+| Cristiano Ronaldo | 85 | ST | ROSHN Saudi League | 4.000 coins | -2.3% |
 | Mohammed Noor | 85 | CAM | ROSHN Saudi League | 12.750 coins | -3.8% |
-| Riyad Mahrez | 84 | RM | ROSHN Saudi League | 1.900 coins | -10% |
 
 
 ## 📈 Destaques
@@ -57,9 +55,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Riyad Mahrez (87, RM)** da ROSHN Saudi League, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Cristiano Ronaldo (85, ST)** da ROSHN Saudi League, a apenas **4.400 coins** — já **valorizando**, sinal de procura crescente.
+- **Cristiano Ronaldo (85, ST)** da ROSHN Saudi League, a apenas **4.000 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Karim Benzema (85, ST)** da ROSHN Saudi League, a apenas **7.200 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Mohammed Noor (85, CAM)** da ROSHN Saudi League, a apenas **12.750 coins**
 
 
 ## Como distribuir a banca

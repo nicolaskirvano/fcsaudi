@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:38:12.000Z
+pubDatetime: 2026-08-02T13:38:11.000Z
 title: "Jogadores baratos EA FC: Saudi Pro League em 02/08 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 02/08/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (02/08/2026)?"
-    a: "Enzo Millot (89, ROSHN Saudi League) aparece como melhor custo-benefício, a 11.750 coins no Console (PS)."
+    a: "Cristiano Ronaldo (88, ROSHN Saudi League) aparece como melhor custo-benefício, a 11.000 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **02/08/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Enzo Millot (89) por apenas 11.750 coins.
+> 💰 **Melhor pechincha:** Cristiano Ronaldo (88) por apenas 11.000 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Saudi Pro League em 02/08 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-08-02-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 8 opções:** 7.800 coins.
-- **Posição mais frequente:** ST, com 3 cartas.
-- **Faixa real:** 1.500 a 13.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 4 opções:** 11.000 coins.
+- **Posição mais frequente:** ST, com 2 cartas.
+- **Faixa real:** 7.000 a 13.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,32 +40,26 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Enzo Millot | 89 | CAM | ROSHN Saudi League | 11.750 coins | +9.7% |
 | Cristiano Ronaldo | 88 | ST | ROSHN Saudi League | 11.000 coins | 0% |
 | Riyad Mahrez | 87 | RM | ROSHN Saudi League | 13.250 coins | 0% |
-| Cristiano Ronaldo | 85 | ST | ROSHN Saudi League | 4.000 coins | +11.1% |
-| Karim Benzema | 85 | ST | ROSHN Saudi League | 7.000 coins | +36.7% |
-| Mohammed Noor | 85 | CAM | ROSHN Saudi League | 12.000 coins | -1.9% |
-| Moussa Diaby | 84 | RM | ROSHN Saudi League | 1.500 coins | +15.4% |
-| Sadio Mané | 83 | LM | ROSHN Saudi League | 1.900 coins | +13.3% |
+| Karim Benzema | 85 | ST | ROSHN Saudi League | 7.000 coins | +53.1% |
+| Mohammed Noor | 85 | CAM | ROSHN Saudi League | 12.750 coins | -7.7% |
 
 
 ## 📈 Destaques
-
-- **Enzo Millot (89, CAM)** da ROSHN Saudi League, a apenas **11.750 coins** — já **valorizando**, sinal de procura crescente.
 
 - **Cristiano Ronaldo (88, ST)** da ROSHN Saudi League, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Riyad Mahrez (87, RM)** da ROSHN Saudi League, a apenas **13.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Cristiano Ronaldo (85, ST)** da ROSHN Saudi League, a apenas **4.000 coins** — já **valorizando**, sinal de procura crescente.
-
 - **Karim Benzema (85, ST)** da ROSHN Saudi League, a apenas **7.000 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+
+- **Mohammed Noor (85, CAM)** da ROSHN Saudi League, a apenas **12.750 coins**
 
 
 ## Como distribuir a banca
 
-- **Meio:** Enzo Millot (89, CAM) por 11.750 coins é a referência de rating deste recorte.
+- **Meio:** Riyad Mahrez (87, RM) por 13.250 coins é a referência de rating deste recorte.
 
 - **Ataque:** Cristiano Ronaldo (88, ST) por 11.000 coins é a referência de rating deste recorte.
 
@@ -86,7 +80,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (02/08/2026)?**  
-Enzo Millot (89, ROSHN Saudi League) aparece como melhor custo-benefício, a 11.750 coins no Console (PS).
+Cristiano Ronaldo (88, ROSHN Saudi League) aparece como melhor custo-benefício, a 11.000 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
