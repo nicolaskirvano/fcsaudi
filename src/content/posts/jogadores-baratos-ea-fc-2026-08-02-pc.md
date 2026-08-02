@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T13:38:22.000Z
+pubDatetime: 2026-08-02T16:38:21.000Z
 title: "Jogadores baratos EA FC: Saudi Pro League em 02/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 5 opções:** 10.250 coins.
+- **Preço médio das 6 opções:** 10.583 coins.
 - **Posição mais frequente:** ST, com 2 cartas.
-- **Faixa real:** 4.000 a 12.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 4.500 a 12.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -43,8 +43,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Cristiano Ronaldo | 88 | ST | ROSHN Saudi League | 11.000 coins | 0% |
 | Sadio Mané | 88 | LM | ROSHN Saudi League | 12.500 coins | 0% |
 | Riyad Mahrez | 87 | RM | ROSHN Saudi League | 11.000 coins | 0% |
-| Cristiano Ronaldo | 85 | ST | ROSHN Saudi League | 4.000 coins | -2.3% |
-| Mohammed Noor | 85 | CAM | ROSHN Saudi League | 12.750 coins | -3.8% |
+| Ibañez | 86 | CB | ROSHN Saudi League | 11.750 coins | 0% |
+| Cristiano Ronaldo | 85 | ST | ROSHN Saudi League | 4.500 coins | +17.5% |
+| Mohammed Noor | 85 | CAM | ROSHN Saudi League | 12.750 coins | -1.9% |
 
 
 ## 📈 Destaques
@@ -55,12 +56,14 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Riyad Mahrez (87, RM)** da ROSHN Saudi League, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Cristiano Ronaldo (85, ST)** da ROSHN Saudi League, a apenas **4.000 coins** — já **valorizando**, sinal de procura crescente.
+- **Ibañez (86, CB)** da ROSHN Saudi League, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mohammed Noor (85, CAM)** da ROSHN Saudi League, a apenas **12.750 coins**
+- **Cristiano Ronaldo (85, ST)** da ROSHN Saudi League, a apenas **4.500 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
+
+- **Defesa:** Ibañez (86, CB) por 11.750 coins é a referência de rating deste recorte.
 
 - **Meio:** Sadio Mané (88, LM) por 12.500 coins é a referência de rating deste recorte.
 

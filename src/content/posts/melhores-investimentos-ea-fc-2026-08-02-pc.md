@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T13:38:20.000Z
+pubDatetime: 2026-08-02T16:38:19.000Z
 title: "Investimentos EA FC: Saudi Pro League em 02/08 — PC"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.7% em 24h** e **+28.7% em 7 dias**.
-- **2 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+8.8% em 24h** e **+19.5% em 7 dias**.
+- **1 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **ROSHN Saudi League** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,25 +43,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Chris Smalling | 87 | ROSHN Saudi League | 70k coins | +8.5% | +81.8% | Esticada |
-| Julian Quiñones | 87 | ROSHN Saudi League | 66k coins | +17.4% | +35.7% | Momentum moderado |
-| Rúben Neves | 87 | ROSHN Saudi League | 21k coins | +12.8% | +31.3% | Momentum moderado |
-| Mohammed Noor | 88 | ROSHN Saudi League | 36k coins | +5.6% | +26.1% | Momentum moderado |
-| Saeed Al Owairan | 91 | ROSHN Saudi League | 216k coins | +1.4% | +12% | Entrada a observar |
-| Karim Benzema | 88 | ROSHN Saudi League | 202k coins | +28.7% | +7.3% | Esticada |
+| Chris Smalling | 87 | ROSHN Saudi League | 70k coins | +3.7% | +81.8% | Esticada |
+| Julian Quiñones | 87 | ROSHN Saudi League | 66k coins | +13.9% | +35.8% | Momentum moderado |
+| Rúben Neves | 87 | ROSHN Saudi League | 22k coins | +7.7% | +25.4% | Momentum moderado |
+| Rúben Neves | 87 | ROSHN Saudi League | 50k coins | +11.1% | +13.6% | Momentum moderado |
+| João Cancelo | 87 | ROSHN Saudi League | 100k coins | +9.9% | +13% | Momentum moderado |
+| Saeed Al Owairan | 91 | ROSHN Saudi League | 135k coins | +6.1% | +10.1% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Chris Smalling (87)** — 70k coins, **+81.8% em 7 dias** (+8.5% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Chris Smalling (87)** — 70k coins, **+81.8% em 7 dias** (+3.7% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Julian Quiñones (87)** — 66k coins, **+35.7% em 7 dias** (+17.4% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Julian Quiñones (87)** — 66k coins, **+35.8% em 7 dias** (+13.9% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rúben Neves (87)** — 21k coins, **+31.3% em 7 dias** (+12.8% em 24h). Preço -17% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rúben Neves (87)** — 22k coins, **+25.4% em 7 dias** (+7.7% em 24h). Preço -14% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mohammed Noor (88)** — 36k coins, **+26.1% em 7 dias** (+5.6% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rúben Neves (87)** — 50k coins, **+13.6% em 7 dias** (+11.1% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Saeed Al Owairan (91)** — 216k coins, **+12% em 7 dias** (+1.4% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **João Cancelo (87)** — 100k coins, **+13% em 7 dias** (+9.9% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
