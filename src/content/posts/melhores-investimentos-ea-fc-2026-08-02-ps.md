@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T16:38:09.000Z
+pubDatetime: 2026-08-02T19:38:13.000Z
 title: "Investimentos EA FC: Saudi Pro League em 02/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 02/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (02/08/2026) no EA FC?"
-    a: "Chris Smalling (87, ROSHN Saudi League) lidera, com +60% em 7 dias a 60k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Karim Benzema (87, ROSHN Saudi League) lidera, com +83.3% em 7 dias a 99k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **02/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Chris Smalling (87) acumula **+60% em 7 dias** a 60k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Karim Benzema (87) acumula **+83.3% em 7 dias** a 99k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Saudi Pro League em 02/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-02-ps.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **02/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.7% em 24h** e **+31.1% em 7 dias**.
-- **2 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+12.7% em 24h** e **+40.0% em 7 dias**.
+- **3 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **ROSHN Saudi League** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,24 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Chris Smalling | 87 | ROSHN Saudi League | 60k coins | +9.1% | +60% | Esticada |
-| Iñigo Martínez | 86 | ROSHN Saudi League | 54k coins | +13.7% | +32.5% | Momentum moderado |
-| Julian Quiñones | 87 | ROSHN Saudi League | 58k coins | +14.9% | +31.1% | Momentum moderado |
-| Karim Benzema | 88 | ROSHN Saudi League | 120k coins | +40% | +28.4% | Esticada |
-| João Félix | 84 | ROSHN Saudi League | 183k coins | +5.7% | +17.1% | Momentum moderado |
+| Karim Benzema | 87 | ROSHN Saudi League | 99k coins | +10% | +83.3% | Esticada |
+| João Cancelo | 87 | ROSHN Saudi League | 44k coins | +11.8% | +81.7% | Esticada |
+| Malcom | 87 | ROSHN Saudi League | 68k coins | +29.6% | +40% | Esticada |
+| Karim Benzema | 88 | ROSHN Saudi League | 139k coins | +12.9% | +40% | Momentum moderado |
+| Iñigo Martínez | 86 | ROSHN Saudi League | 56k coins | +12.7% | +27.8% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Chris Smalling (87)** — 60k coins, **+60% em 7 dias** (+9.1% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Karim Benzema (87)** — 99k coins, **+83.3% em 7 dias** (+10% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Iñigo Martínez (86)** — 54k coins, **+32.5% em 7 dias** (+13.7% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **João Cancelo (87)** — 44k coins, **+81.7% em 7 dias** (+11.8% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Julian Quiñones (87)** — 58k coins, **+31.1% em 7 dias** (+14.9% em 24h). Preço -11% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Malcom (87)** — 68k coins, **+40% em 7 dias** (+29.6% em 24h). Preço em linha com a média de 7 dias (-0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Karim Benzema (88)** — 120k coins, **+28.4% em 7 dias** (+40% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Karim Benzema (88)** — 139k coins, **+40% em 7 dias** (+12.9% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **João Félix (84)** — 183k coins, **+17.1% em 7 dias** (+5.7% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Iñigo Martínez (86)** — 56k coins, **+27.8% em 7 dias** (+12.7% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -78,7 +78,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (02/08/2026) no EA FC?**  
-Chris Smalling (87, ROSHN Saudi League) lidera, com +60% em 7 dias a 60k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Karim Benzema (87, ROSHN Saudi League) lidera, com +83.3% em 7 dias a 99k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
