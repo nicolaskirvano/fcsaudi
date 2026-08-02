@@ -6,17 +6,17 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Firas Al Birekan</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+85.9%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Theo Hernández</text>
-<rect x="285" y="153" width="435" height="28" rx="7" fill="#22c55e"/>
-<text x="730" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+77.8%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+81.4%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Chris Smalling</text>
+<rect x="285" y="153" width="429" height="28" rx="7" fill="#22c55e"/>
+<text x="724" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+72.7%</text>
 <text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Karim Benzema</text>
-<rect x="285" y="211" width="425" height="28" rx="7" fill="#22c55e"/>
-<text x="720" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+76.0%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Iñigo Martínez</text>
-<rect x="285" y="269" width="153" height="28" rx="7" fill="#22c55e"/>
-<text x="448" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+27.4%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Carlos Júnior</text>
-<rect x="285" y="327" width="130" height="28" rx="7" fill="#22c55e"/>
-<text x="425" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.2%</text>
+<rect x="285" y="211" width="408" height="28" rx="7" fill="#22c55e"/>
+<text x="703" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+69.2%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Enzo Millot</text>
+<rect x="285" y="269" width="54" height="28" rx="7" fill="#22c55e"/>
+<text x="349" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+9.2%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Iñigo Martínez</text>
+<rect x="285" y="327" width="31" height="28" rx="7" fill="#22c55e"/>
+<text x="326" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+5.2%</text>
 </svg>

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T22:38:12.000Z
+pubDatetime: 2026-08-02T01:38:11.000Z
 title: "Jogadores baratos EA FC: Saudi Pro League em 01/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 7.417 coins.
-- **Posição mais frequente:** ST, com 2 cartas.
-- **Faixa real:** 1.700 a 13.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 6 opções:** 7.758 coins.
+- **Posição mais frequente:** ST, com 3 cartas.
+- **Faixa real:** 1.700 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,10 +42,10 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Cristiano Ronaldo | 88 | ST | ROSHN Saudi League | 11.000 coins | 0% |
 | Riyad Mahrez | 87 | RM | ROSHN Saudi League | 13.250 coins | 0% |
-| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 2.600 coins | +36.8% |
-| Cristiano Ronaldo | 85 | ST | ROSHN Saudi League | 3.200 coins | +20% |
-| Mohammed Noor | 85 | CAM | ROSHN Saudi League | 12.750 coins | -15% |
-| Moussa Diaby | 84 | RM | ROSHN Saudi League | 1.700 coins | +30.8% |
+| Sami Al Jaber | 86 | ST | ROSHN Saudi League | 14.000 coins | 0% |
+| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 2.400 coins | -8.3% |
+| Cristiano Ronaldo | 85 | ST | ROSHN Saudi League | 4.200 coins | +15.4% |
+| Riyad Mahrez | 84 | RM | ROSHN Saudi League | 1.700 coins | -5.6% |
 
 
 ## 📈 Destaques
@@ -54,11 +54,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Riyad Mahrez (87, RM)** da ROSHN Saudi League, a apenas **13.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **N'Golo Kanté (85, CDM)** da ROSHN Saudi League, a apenas **2.600 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Sami Al Jaber (86, ST)** da ROSHN Saudi League, a apenas **14.000 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Cristiano Ronaldo (85, ST)** da ROSHN Saudi League, a apenas **3.200 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **N'Golo Kanté (85, CDM)** da ROSHN Saudi League, a apenas **2.400 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Mohammed Noor (85, CAM)** da ROSHN Saudi League, a apenas **12.750 coins** — já **valorizando**, sinal de procura crescente.
+- **Cristiano Ronaldo (85, ST)** da ROSHN Saudi League, a apenas **4.200 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
