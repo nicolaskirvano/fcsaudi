@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T22:38:22.000Z
+pubDatetime: 2026-08-03T01:38:24.000Z
 title: "Jogadores baratos EA FC: Saudi Pro League em 02/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 9 opções:** 9.744 coins.
-- **Posição mais frequente:** ST, com 4 cartas.
-- **Faixa real:** 2.200 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 9 opções:** 9.222 coins.
+- **Posição mais frequente:** ST, com 3 cartas.
+- **Faixa real:** 2.200 a 13.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -43,12 +43,12 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Cristiano Ronaldo | 88 | ST | ROSHN Saudi League | 11.000 coins | 0% |
 | Sadio Mané | 88 | LM | ROSHN Saudi League | 12.500 coins | 0% |
 | Riyad Mahrez | 87 | RM | ROSHN Saudi League | 11.000 coins | 0% |
-| Sami Al Jaber | 86 | ST | ROSHN Saudi League | 14.000 coins | -8.4% |
-| Cristiano Ronaldo | 85 | ST | ROSHN Saudi League | 5.500 coins | +6.8% |
-| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 5.500 coins | +23.3% |
+| Sami Al Jaber | 86 | ST | ROSHN Saudi League | 13.250 coins | -1.8% |
+| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 4.600 coins | +7% |
 | Karim Benzema | 85 | ST | ROSHN Saudi League | 13.000 coins | +44.4% |
-| Mohammed Noor | 85 | CAM | ROSHN Saudi League | 13.000 coins | +4% |
-| Sadio Mané | 83 | LM | ROSHN Saudi League | 2.200 coins | -4.3% |
+| Mohammed Noor | 85 | CAM | ROSHN Saudi League | 13.250 coins | +10.4% |
+| Riyad Mahrez | 84 | RM | ROSHN Saudi League | 2.200 coins | +10% |
+| Sadio Mané | 83 | LM | ROSHN Saudi League | 2.200 coins | -12% |
 
 
 ## 📈 Destaques
@@ -59,9 +59,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Riyad Mahrez (87, RM)** da ROSHN Saudi League, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Sami Al Jaber (86, ST)** da ROSHN Saudi League, a apenas **14.000 coins** — já **valorizando**, sinal de procura crescente.
+- **Sami Al Jaber (86, ST)** da ROSHN Saudi League, a apenas **13.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Cristiano Ronaldo (85, ST)** da ROSHN Saudi League, a apenas **5.500 coins** — já **valorizando**, sinal de procura crescente.
+- **N'Golo Kanté (85, CDM)** da ROSHN Saudi League, a apenas **4.600 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
@@ -105,6 +105,7 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Investimentos EA FC: Saudi Pro League em 02/08 — PC](/posts/melhores-investimentos-ea-fc-2026-08-02-pc/)
 - [Mercado EA FC em 02/08: Saudi Pro League — PC](/posts/mercado-ea-fc-2026-08-02-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
