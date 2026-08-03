@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T10:31:36.000Z
+pubDatetime: 2026-08-03T10:38:08.000Z
 title: "Mercado EA FC em 03/08: Saudi Pro League — Console (PS)"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Saeed Al Owairan (85), -34.5% em 24h, a 29k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 13 cartas em alta contra 12 em queda (média 2.56%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 13 cartas em alta contra 12 em queda (média 3.02%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado do **EA FC** abre **03/08/2026** no Console (PS) com mercado **aquecido** — as altas dominam o dia: **13 cartas subiram** e **12 caíram** (80+ acima de 5k coins), variação média de **2.56%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **03/08/2026** no Console (PS) com mercado **aquecido** — as altas dominam o dia: **13 cartas subiram** e **12 caíram** (80+ acima de 5k coins), variação média de **3.02%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Saeed Al Owairan (91) **+45.5%** · 🔴 **Maior baixa:** Saeed Al Owairan (85) **-34.5%**
 
@@ -44,10 +44,10 @@ O mercado do **EA FC** abre **03/08/2026** no Console (PS) com mercado **aquecid
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Saeed Al Owairan | 91 | ROSHN Saudi League | 195k coins | +45.5% | +156.6% |
+| Darwin Núñez | 90 | ROSHN Saudi League | 174k coins | +36% | +170.2% |
 | Musab Al Juwair | 87 | ROSHN Saudi League | 30k coins | +28.1% | +111.6% |
 | N'Golo Kanté | 89 | ROSHN Saudi League | 106k coins | +27.3% | +19.4% |
 | Mohamed Simakan | 86 | ROSHN Saudi League | 50k coins | +20% | +17.4% |
-| Darwin Núñez | 90 | ROSHN Saudi League | 174k coins | +20% | +138.4% |
 | Chris Smalling | 87 | ROSHN Saudi League | 60k coins | +10% | -8.3% |
 | Carlos Júnior | 84 | ROSHN Saudi League | 51k coins | +9.1% | -15% |
 | Malcom | 87 | ROSHN Saudi League | 99k coins | +5.9% | +46.3% |
@@ -61,9 +61,9 @@ O mercado do **EA FC** abre **03/08/2026** no Console (PS) com mercado **aquecid
 
 - **Saeed Al Owairan (91)** subiu **+45.5%** em 24h, a **195k coins** (faixa do dia: 64k–200k). Está +83% acima da média de 7 dias (aquecida).
 
-- **Musab Al Juwair (87)** subiu **+28.1%** em 24h, a **30k coins** (faixa do dia: 15.000–44k). Está +16% acima da média de 7 dias (aquecida).
+- **Darwin Núñez (90)** subiu **+36%** em 24h, a **174k coins** (faixa do dia: 70k–204k). Está +64% acima da média de 7 dias (aquecida).
 
-- **N'Golo Kanté (89)** subiu **+27.3%** em 24h, a **106k coins** (faixa do dia: 42k–160k). Está +36% acima da média de 7 dias (aquecida).
+- **Musab Al Juwair (87)** subiu **+28.1%** em 24h, a **30k coins** (faixa do dia: 15.000–44k). Está +16% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
@@ -123,7 +123,7 @@ Saeed Al Owairan (91, ROSHN Saudi League), com +45.5% em 24h, a 195k coins no Co
 Saeed Al Owairan (85), -34.5% em 24h, a 29k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 13 cartas em alta contra 12 em queda (média 2.56%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 13 cartas em alta contra 12 em queda (média 3.02%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
