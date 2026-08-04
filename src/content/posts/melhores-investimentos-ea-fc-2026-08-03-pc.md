@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T22:38:19.000Z
+pubDatetime: 2026-08-04T01:38:19.000Z
 title: "Investimentos EA FC: Saudi Pro League em 03/08 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **03/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.5% em 24h** e **+10.5% em 7 dias**.
-- **3 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **ROSHN Saudi League** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+6.5% em 24h** e **+21.3% em 7 dias**.
+- **3 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **ROSHN Saudi League** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,9 +44,10 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Julian Quiñones | 87 | ROSHN Saudi League | 70k coins | +7.6% | +75.2% | Esticada |
-| Darwin Núñez | 90 | ROSHN Saudi League | 126k coins | +20.7% | +16.7% | Esticada |
-| Theo Hernández | 88 | ROSHN Saudi League | 116k coins | +10.5% | +10.5% | Momentum moderado |
-| Joshua King | 85 | ROSHN Saudi League | 17.750 coins | +2.7% | +8.7% | Entrada a observar |
+| Enzo Millot | 89 | ROSHN Saudi League | 20k coins | +1.2% | +64% | Esticada |
+| Carlos Júnior | 84 | ROSHN Saudi League | 60k coins | +2.6% | +26.3% | Momentum moderado |
+| Saeed Al Owairan | 91 | ROSHN Saudi League | 220k coins | +16.3% | +16.3% | Momentum moderado |
+| Theo Hernández | 88 | ROSHN Saudi League | 116k coins | +5.5% | +12.6% | Momentum moderado |
 | Malcom | 87 | ROSHN Saudi League | 83k coins | +37.2% | +5.7% | Esticada |
 
 
@@ -54,13 +55,13 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Julian Quiñones (87)** — 70k coins, **+75.2% em 7 dias** (+7.6% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Darwin Núñez (90)** — 126k coins, **+16.7% em 7 dias** (+20.7% em 24h). Preço -9% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Enzo Millot (89)** — 20k coins, **+64% em 7 dias** (+1.2% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Theo Hernández (88)** — 116k coins, **+10.5% em 7 dias** (+10.5% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Carlos Júnior (84)** — 60k coins, **+26.3% em 7 dias** (+2.6% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Joshua King (85)** — 17.750 coins, **+8.7% em 7 dias** (+2.7% em 24h). Preço em linha com a média de 7 dias (-4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Saeed Al Owairan (91)** — 220k coins, **+16.3% em 7 dias** (+16.3% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Malcom (87)** — 83k coins, **+5.7% em 7 dias** (+37.2% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Theo Hernández (88)** — 116k coins, **+12.6% em 7 dias** (+5.5% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

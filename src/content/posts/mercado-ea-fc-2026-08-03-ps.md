@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T22:38:08.000Z
+pubDatetime: 2026-08-04T01:38:08.000Z
 title: "Mercado EA FC em 03/08: Saudi Pro League — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 03/08/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (03/08/2026)?"
-    a: "Theo Hernández (88, ROSHN Saudi League), com +34.6% em 24h, a 109k coins no Console (PS)."
+    a: "Cristiano Ronaldo (89, ROSHN Saudi League), com +26.7% em 24h, a 570k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "João Félix (87), -20.3% em 24h, a 72k coins."
+    a: "Saeed Al Owairan (85), -26.7% em 24h, a 86k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 13 cartas em alta contra 10 em queda (média 0.04%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 12 cartas em alta contra 10 em queda (média 8.1%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado do **EA FC** abre **03/08/2026** no Console (PS) com dia **indefinido** — sem tendência dominante: **13 cartas subiram** e **10 caíram** (80+ acima de 5k coins), variação média de **0.04%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **03/08/2026** no Console (PS) com mercado **aquecido** — as altas dominam o dia: **12 cartas subiram** e **10 caíram** (80+ acima de 5k coins), variação média de **8.1%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Theo Hernández (88) **+34.6%** · 🔴 **Maior baixa:** João Félix (87) **-20.3%**
+> 🟢 **Maior alta:** Cristiano Ronaldo (89) **+26.7%** · 🔴 **Maior baixa:** Saeed Al Owairan (85) **-26.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 03/08: Saudi Pro League — Console (PS)](/charts/mercado-ea-fc-2026-08-03-ps.svg)
 
@@ -35,23 +35,23 @@ O mercado do **EA FC** abre **03/08/2026** no Console (PS) com dia **indefinido*
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 54.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 56.5% entre as cartas que se moveram; o universo observado reúne 28 cartas.
-- **Concentração:** ROSHN Saudi League aparece em 13 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 53.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 54.5% entre as cartas que se moveram; o universo observado reúne 26 cartas.
+- **Concentração:** ROSHN Saudi League aparece em 16 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Theo Hernández | 88 | ROSHN Saudi League | 109k coins | +34.6% | +111.7% |
-| Cristiano Ronaldo | 89 | ROSHN Saudi League | 545k coins | +19.8% | -13.2% |
-| Chris Smalling | 87 | ROSHN Saudi League | 60k coins | +17.6% | -8.3% |
-| Iñigo Martínez | 86 | ROSHN Saudi League | 59k coins | +14.6% | +18% |
-| João Félix | 93 | ROSHN Saudi League | 507k coins | +12.6% | +37.5% |
-| Malcom | 87 | ROSHN Saudi League | 85k coins | +12.1% | +29.4% |
-| Karim Benzema | 87 | ROSHN Saudi League | 110k coins | +10% | +64.2% |
-| Karim Benzema | 88 | ROSHN Saudi League | 150k coins | +7.9% | +66.7% |
-| Carlos Júnior | 84 | ROSHN Saudi League | 50k coins | +7.7% | +5% |
+| Cristiano Ronaldo | 89 | ROSHN Saudi League | 570k coins | +26.7% | -9.1% |
+| Karim Benzema | 88 | ROSHN Saudi League | 140k coins | +25% | +78.9% |
+| João Félix | 93 | ROSHN Saudi League | 551k coins | +21.9% | +48.5% |
+| Karim Benzema | 87 | ROSHN Saudi League | 107k coins | +18.9% | +55.1% |
+| Theo Hernández | 88 | ROSHN Saudi League | 98k coins | +18.3% | +101% |
+| Julian Quiñones | 87 | ROSHN Saudi League | 82k coins | +18.1% | -2.4% |
+| Cristiano Ronaldo | 86 | ROSHN Saudi League | 134k coins | +13.6% | -4.3% |
+| Iñigo Martínez | 86 | ROSHN Saudi League | 54k coins | +6.8% | +10% |
+| N'Golo Kanté | 89 | ROSHN Saudi League | 142k coins | +4% | +50.7% |
 
 
 ### Análise das altas
@@ -60,37 +60,40 @@ O mercado do **EA FC** abre **03/08/2026** no Console (PS) com dia **indefinido*
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Theo Hernández (88)** subiu **+34.6%** em 24h, a **109k coins** (faixa do dia: 74k–110k). Está +37% acima da média de 7 dias (aquecida).
+- **Cristiano Ronaldo (89)** subiu **+26.7%** em 24h, a **570k coins** (faixa do dia: 400k–1.30M). Está em linha com a média de 7 dias (+3%).
 
-- **Cristiano Ronaldo (89)** subiu **+19.8%** em 24h, a **545k coins** (faixa do dia: 400k–1.30M). Está em linha com a média de 7 dias (-1%).
+- **Karim Benzema (88)** subiu **+25%** em 24h, a **140k coins** (faixa do dia: 85k–170k). Está +17% acima da média de 7 dias (aquecida).
 
-- **Chris Smalling (87)** subiu **+17.6%** em 24h, a **60k coins** (faixa do dia: 36k–60k). Está +15% acima da média de 7 dias (aquecida).
+- **João Félix (93)** subiu **+21.9%** em 24h, a **551k coins** (faixa do dia: 448k–591k). Está em linha com a média de 7 dias (+4%).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| João Félix | 87 | ROSHN Saudi League | 72k coins | -20.3% | +22.2% |
-| Iñigo Martínez | 87 | ROSHN Saudi League | 46k coins | -9.5% | +4% |
-| Saeed Al Owairan | 91 | ROSHN Saudi League | 131k coins | -7.9% | +77.2% |
-| Mohamed Simakan | 86 | ROSHN Saudi League | 45k coins | -3% | -1.5% |
+| Saeed Al Owairan | 85 | ROSHN Saudi League | 86k coins | -26.7% | +21.3% |
+| Mohamed Simakan | 86 | ROSHN Saudi League | 48k coins | -16.7% | -6.2% |
+| João Cancelo | 87 | ROSHN Saudi League | 30k coins | -9.7% | +160% |
+| Saeed Al Owairan | 91 | ROSHN Saudi League | 136k coins | -8.5% | +76.1% |
+| João Félix | 86 | ROSHN Saudi League | 127k coins | -6.3% | +95.6% |
+| Rúben Neves | 87 | ROSHN Saudi League | 49k coins | -4.9% | +7.7% |
+| Malcom | 87 | ROSHN Saudi League | 99k coins | -4.5% | +8.7% |
 
 
 ### Análise das baixas
 
-- **João Félix (87)** caiu **-20.3%** em 24h, a **72k coins** (faixa do dia: 50k–85k). Está +31% acima da média de 7 dias (aquecida).
+- **Saeed Al Owairan (85)** caiu **-26.7%** em 24h, a **86k coins** (faixa do dia: 28k–127k). Está +85% acima da média de 7 dias (aquecida).
 
-- **Iñigo Martínez (87)** caiu **-9.5%** em 24h, a **46k coins** (faixa do dia: 44k–65k). Está em linha com a média de 7 dias (-5%).
+- **Mohamed Simakan (86)** caiu **-16.7%** em 24h, a **48k coins** (faixa do dia: 45k–58k). Está em linha com a média de 7 dias (-1%).
 
-- **Saeed Al Owairan (91)** caiu **-7.9%** em 24h, a **131k coins** (faixa do dia: 130k–200k). Está +19% acima da média de 7 dias (aquecida).
+- **João Cancelo (87)** caiu **-9.7%** em 24h, a **30k coins** (faixa do dia: 26k–85k). Está -26% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Theo Hernández já avançou 34.6% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Cristiano Ronaldo já avançou 26.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** João Félix recuou -20.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Saeed Al Owairan recuou -26.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -112,13 +115,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (03/08/2026)?**
-Theo Hernández (88, ROSHN Saudi League), com +34.6% em 24h, a 109k coins no Console (PS).
+Cristiano Ronaldo (89, ROSHN Saudi League), com +26.7% em 24h, a 570k coins no Console (PS).
 
 **E a maior queda do dia?**
-João Félix (87), -20.3% em 24h, a 72k coins.
+Saeed Al Owairan (85), -26.7% em 24h, a 86k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 13 cartas em alta contra 10 em queda (média 0.04%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 12 cartas em alta contra 10 em queda (média 8.1%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
