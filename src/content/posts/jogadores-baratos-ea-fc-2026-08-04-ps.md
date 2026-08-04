@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-04T10:38:10.000Z
+pubDatetime: 2026-08-04T13:38:10.000Z
 title: "Jogadores baratos EA FC: Saudi Pro League em 04/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 9.367 coins.
-- **Posição mais frequente:** ST, com 2 cartas.
-- **Faixa real:** 3.100 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 4 opções:** 10.250 coins.
+- **Posição mais frequente:** RM, com 2 cartas.
+- **Faixa real:** 2.500 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,10 +42,8 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Cristiano Ronaldo | 88 | ST | ROSHN Saudi League | 11.000 coins | 0% |
 | Sadio Mané | 88 | LM | ROSHN Saudi League | 14.250 coins | 0% |
-| Sami Al Jaber | 86 | ST | ROSHN Saudi League | 14.000 coins | +14.3% |
-| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 3.100 coins | +52.2% |
-| Mohammed Noor | 85 | CAM | ROSHN Saudi League | 10.750 coins | -2.1% |
-| Sadio Mané | 83 | LM | ROSHN Saudi League | 3.100 coins | +12% |
+| Riyad Mahrez | 87 | RM | ROSHN Saudi League | 13.250 coins | 0% |
+| Moussa Diaby | 84 | RM | ROSHN Saudi League | 2.500 coins | +5.9% |
 
 
 ## 📈 Destaques
@@ -54,11 +52,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Sadio Mané (88, LM)** da ROSHN Saudi League, a apenas **14.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Sami Al Jaber (86, ST)** da ROSHN Saudi League, a apenas **14.000 coins**
+- **Riyad Mahrez (87, RM)** da ROSHN Saudi League, a apenas **13.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **N'Golo Kanté (85, CDM)** da ROSHN Saudi League, a apenas **3.100 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
-
-- **Mohammed Noor (85, CAM)** da ROSHN Saudi League, a apenas **10.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Moussa Diaby (84, RM)** da ROSHN Saudi League, a apenas **2.500 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
