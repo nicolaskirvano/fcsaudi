@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-05T22:38:19.000Z
+pubDatetime: 2026-08-06T01:38:21.000Z
 title: "Jogadores baratos EA FC: Saudi Pro League em 05/08 — PC"
 draft: false
 featured: false
