@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-06T16:38:07.000Z
+pubDatetime: 2026-08-06T19:38:08.000Z
 title: "Mercado EA FC em 06/08: Saudi Pro League — Console (PS)"
 draft: false
 featured: true
