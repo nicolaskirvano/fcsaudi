@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-07T22:38:18.000Z
+pubDatetime: 2026-08-08T01:38:17.000Z
 title: "Mercado EA FC em 07/08: Saudi Pro League — PC"
 draft: false
 featured: true
